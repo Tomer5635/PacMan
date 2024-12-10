@@ -29,18 +29,15 @@ def main ():
             if event.type==pygame.MOUSEBUTTONDOWN and graphics.Graphics.home_screen(screen).get_rect(topleft=(195,400)).collidepoint(event.pos):
                 isGame=True
         
-        if(isGame):
+        if not isGame:
+            continue
 
-            if type(player) is HumanAgent:
-                action = player.getAction(events)
-            else:
-                action = player.getAction(game.state(),epoch=100000)
+        action = player.getAction(events=events, state=game.state(), epoch=100000)
+        graphics.Graphics.game_screen(screen,game)
+        gameTickCounter,_,_ =game.tick(gameTickCounter,action)
+        if gameTickCounter%60==0:
+            print (gameTickCounter/60,game.ghostModes)
             
-            graphics.Graphics.game_screen(screen,game)
-            gameTickCounter =game.tick(gameTickCounter,action)
-            if gameTickCounter%60==0:
-                print (gameTickCounter/60,game.ghostModes)
-                
        
         pygame.display.update()
         clock.tick(60)

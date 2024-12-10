@@ -283,14 +283,14 @@ class Game:
             if action is not None:
                 self.nextDirection = action
             if GameTick%6==0:
-                self.move()
+                state, reward =self.move()
             if GameTick%8==0:
                 self.ghostMove(0)
             if GameTick%11==0:
                 self.blueGhostMove(0)
             if GameTick%60==0:
                 self.ghostModeUpdate()
-            return GameTick+1
+            return GameTick+1,state,reward
         return GameTick
     def state(self):
         board_np = self.board.reshape(868)

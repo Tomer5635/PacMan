@@ -16,7 +16,7 @@ class DQN_Agent:
           else:
               self.DQN.eval()
 
-    def getAction(self, state, epoch = 0, events= None,train =False): 
+    def getAction(self, state, epoch = 0, events= None, train =False): 
         actions = [0,1,2,3]
         if train:
             epsilon = self.DQN.epsilon_greedy(epoch)

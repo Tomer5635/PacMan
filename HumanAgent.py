@@ -3,7 +3,7 @@ import environment
 import graphics
 class agent:
 
-    def getAction(self,events):
+    def getAction(self,events, state=None, epochs=None):
         for event in events:
             if event.type==pygame.KEYDOWN:
                 if event.key==pygame.K_RIGHT:

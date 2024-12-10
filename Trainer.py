@@ -4,6 +4,7 @@ from environment import Game
 from DQN_Agent import DQN_Agent
 import graphics
 import os
+import ReplayBuffer
 WIDTH , HEIGHT = 540,710
 def main ():
 
@@ -25,7 +26,7 @@ def main ():
     player_hat = DQN_Agent()
     player_hat.DQN = player.DQN.copy()
     batch_size = 50
-    # buffer = ReplayBuffer(path=None)
+    buffer = ReplayBuffer(path=None)
     learning_rate = 0.00001
     ephocs = 200000
     start_epoch = 0
@@ -39,53 +40,51 @@ def main ():
     step = 0
 
     ######### checkpoint Load ############
-    checkpoint_path = "Data/checkpoint20.pth"
-    buffer_path = "Data/buffer20.pth"
-    if os.path.exists(checkpoint_path):
-        checkpoint = torch.load(checkpoint_path)
-        start_epoch = checkpoint['epoch']+1
-        player.DQN.load_state_dict(checkpoint['model_state_dict'])
-        player_hat.DQN.load_state_dict(checkpoint['model_state_dict'])
-        optim.load_state_dict(checkpoint['optimizer_state_dict'])
-        scheduler.load_state_dict(checkpoint['scheduler_state_dict'])
-        buffer = torch.load(buffer_path)
-        losses = checkpoint['loss']
-        scores = checkpoint['scores']
-        avg_score = checkpoint['avg_score']
-    player.DQN.train()
-    player_hat.DQN.eval()
+    # checkpoint_path = "Data/checkpoint20.pth"
+    # buffer_path = "Data/buffer20.pth"
+    # if os.path.exists(checkpoint_path):
+    #     checkpoint = torch.load(checkpoint_path)
+    #     start_epoch = checkpoint['epoch']+1
+    #     player.DQN.load_state_dict(checkpoint['model_state_dict'])
+    #     player_hat.DQN.load_state_dict(checkpoint['model_state_dict'])
+    #     optim.load_state_dict(checkpoint['optimizer_state_dict'])
+    #     scheduler.load_state_dict(checkpoint['scheduler_state_dict'])
+    #     buffer = torch.load(buffer_path)
+    #     losses = checkpoint['loss']
+    #     scores = checkpoint['scores']
+    #     avg_score = checkpoint['avg_score']
+    # player.DQN.train()
+    # player_hat.DQN.eval()
 
     #################################
 
     for epoch in range(start_epoch, ephocs):
         game = Game()
-        end_of_game = False
         state = game.state()
-        while not end_of_game:
-            print (step, end='\r')
-            step += 1
-            events = pygame.event.get()
-            for event in events:
-                if event.type == pygame.QUIT:
-                    return
-            
+        gameTick=0
+        while True:
+            gameTick=gameTick%264
             ############## Sample Environement #########################
-            action = player.getAction(state=state, epoch=epoch)
-            reward, done = game.move(action=action)
-            next_state = game.state()
-            buffer.push(state, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), 
-                        next_state, torch.tensor(done, dtype=torch.float32))
-            if done:
-                best_score = max(best_score, game.points)
-                break
+            if gameTick%6==0:
+                action = player.getAction(state=state, epoch=epoch)
+                gameTick,nextState,reward=game.tick(gameTick,action)
+                buffer.push(state, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), 
+                            nextState, torch.tensor(game.game_over, dtype=torch.float32))
+            else:
+                gameTick,midState,_=game.tick(gameTick,action)
 
-            state = next_state
+            if game.game_over:
+                   best_score = max(best_score, game.points)
+                   buffer.push(state, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), 
+                            midState, torch.tensor(game.game_over, dtype=torch.float32))
+                   break
+            state = nextState
 
             pygame.display.update()
             clock.tick(60)
             
-            # if len(buffer) < MIN_BUFFER:
-            #     continue
+            if len(buffer) < 1000:
+                continue
     
             ############## Train ################
             states, actions, rewards, next_states, dones = buffer.sample(batch_size)
