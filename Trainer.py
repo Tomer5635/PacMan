@@ -4,29 +4,27 @@ from environment import Game
 from DQN_Agent import DQN_Agent
 import graphics
 import os
-import ReplayBuffer
+from ReplayBuffer import ReplayBuffer
 WIDTH , HEIGHT = 540,710
 def main ():
 
     pygame.init()
-
-    screen = pygame.display.set_mode((WIDTH, HEIGHT))
-    pygame.display.set_caption('Space')
-        # clock = pygame.time.Clock()
+    path = "Data/parameters1"
     clock = pygame.time.Clock()
     screen = pygame.display.set_mode((WIDTH,HEIGHT))
     pygame.display.set_caption('PAC MAN')
     game = Game()
-    graphics.Graphics.home_screen(screen)
 
     best_score = 0
 
     ####### params ############
-    player = DQN_Agent()
+    player = DQN_Agent(path)
+    player.load_params(path)
+    player.save_param(path)
     player_hat = DQN_Agent()
     player_hat.DQN = player.DQN.copy()
     batch_size = 50
-    buffer = ReplayBuffer(path=None)
+    buffer = ReplayBuffer()
     learning_rate = 0.00001
     ephocs = 200000
     start_epoch = 0
@@ -62,22 +60,30 @@ def main ():
         game = Game()
         state = game.state()
         gameTick=0
-        while True:
+        run = True
+        while run:
+            events = pygame.event.get()
+            for event in events:
+                if event.type==pygame.QUIT:
+                    run=False
             gameTick=gameTick%264
             ############## Sample Environement #########################
             if gameTick%6==0:
                 action = player.getAction(state=state, epoch=epoch)
+                graphics.Graphics.game_screen(screen,game)
                 gameTick,nextState,reward=game.tick(gameTick,action)
                 buffer.push(state, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), 
-                            nextState, torch.tensor(game.game_over, dtype=torch.float32))
+                            nextState, torch.tensor(game.game_over!=False, dtype=torch.float32))
             else:
                 gameTick,midState,_=game.tick(gameTick,action)
+                graphics.Graphics.game_screen(screen,game)
 
             if game.game_over:
-                   best_score = max(best_score, game.points)
-                   buffer.push(state, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), 
-                            midState, torch.tensor(game.game_over, dtype=torch.float32))
-                   break
+                best_score = max(best_score, game.points)
+                buffer.push(state, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), midState, torch.tensor(game.game_over!=False, dtype=torch.float32))
+                graphics.Graphics.game_screen(screen,game)
+                pygame.display.update()
+                break
             state = nextState
 
             pygame.display.update()
@@ -101,31 +107,31 @@ def main ():
             player_hat.DQN.load_state_dict(player.DQN.state_dict())
 
         #########################################
-        print (f'epoch: {epoch} loss: {loss:.7f} LR: {scheduler.get_last_lr()} step: {step} ' \
-               f'score: {game.points} best_score: {best_score}')
-        step = 0
-        if epoch % 10 == 0:
-            scores.append(game.points)
-            losses.append(loss.item())
+        # print (f'epoch: {epoch} loss: {loss:.7f} LR: {scheduler.get_last_lr()} step: {step} ' \
+        #        f'score: {game.points} best_score: {best_score}')
+        # step = 0
+        # if epoch % 10 == 0:
+        #     scores.append(game.points)
+        #     losses.append(loss.item())
 
-        avg = (avg * (epoch % 10) + game.points) / (epoch % 10 + 1)
-        if (epoch + 1) % 10 == 0:
-            avg_score.append(avg)
-            print (f'average score last 10 games: {avg} ')
-            avg = 0
+        # avg = (avg * (epoch % 10) + game.points) / (epoch % 10 + 1)
+        # if (epoch + 1) % 10 == 0:
+        #     avg_score.append(avg)
+        #     print (f'average score last 10 games: {avg} ')
+        #     avg = 0
 
-        if epoch % 1000 == 0 and epoch > 0:
-            checkpoint = {
-                'epoch': epoch,
-                'model_state_dict': player.DQN.state_dict(),
-                'optimizer_state_dict': optim.state_dict(),
-                'scheduler_state_dict': scheduler.state_dict(),
-                'loss': losses,
-                'scores':scores,
-                'avg_score': avg_score
-            }
-            torch.save(checkpoint, checkpoint_path)
-            torch.save(buffer, buffer_path)
+        # if epoch % 1000 == 0 and epoch > 0:
+        #     checkpoint = {
+        #         'epoch': epoch,
+        #         'model_state_dict': player.DQN.state_dict(),
+        #         'optimizer_state_dict': optim.state_dict(),
+        #         'scheduler_state_dict': scheduler.state_dict(),
+        #         'loss': losses,
+        #         'scores':scores,
+        #         'avg_score': avg_score
+        #     }
+        #     torch.save(checkpoint, checkpoint_path)
+        #     torch.save(buffer, buffer_path)
 
         
 

@@ -50,7 +50,6 @@ class Game:
     game_over = False
     
     def move(self):
-        prevPoints = self.points
         if 11 in self.board:
             i,j=np.argwhere(self.board == 11)[0]
         if self.board[i][j] ==11:
@@ -77,7 +76,7 @@ class Game:
             if self.board[nextPos[0]][nextPos[1]]!=-1 and self.board[nextPos[0]][nextPos[1]]!=-2:
                 if self.board[nextPos[0]][nextPos[1]]>6:
                     self.gameOver()
-                    return self.state,0
+                    return
                 if self.board[nextPos[0]][nextPos[1]]<-6:
                     self.respawnGhost(self.board[nextPos[0]][nextPos[1]]+10,nextPos)
                         
@@ -89,9 +88,6 @@ class Game:
                     self.ghostModes=[2,2,2,2]
                     self.frightenedTime=0
                 self.board[nextPos[0]][nextPos[1]]=11
-                reward=self.points - prevPoints
-                
-                return self.state,reward
             
                 
     def ghostModeUpdate(self):
@@ -276,6 +272,7 @@ class Game:
         return [0,1,2,3]
     def tick(self,GameTick,action):
         if not self.game_over:
+            prevPoints = self.points
             if 11 not in self.board:
                 self.gameOver()
             if (1 not in self.board and 5 not in self.board) and (1 not in self.ghostUnder and 5 not in self.ghostUnder):
@@ -283,14 +280,16 @@ class Game:
             if action is not None:
                 self.nextDirection = action
             if GameTick%6==0:
-                state, reward =self.move()
+                self.move()
             if GameTick%8==0:
                 self.ghostMove(0)
             if GameTick%11==0:
                 self.blueGhostMove(0)
             if GameTick%60==0:
                 self.ghostModeUpdate()
-            return GameTick+1,state,reward
+            
+            reward=self.points-prevPoints
+            return GameTick+1,self.state(),reward
         return GameTick
     def state(self):
         board_np = self.board.reshape(868)
