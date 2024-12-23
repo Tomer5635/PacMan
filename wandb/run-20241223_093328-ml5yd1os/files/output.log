@@ -1,0 +1,7 @@
+GAME OVER
+Traceback (most recent call last):
+  File "c:\Users\user\Downloads\PacMan\Trainer.py", line 158, in <module>
+    main ()
+  File "c:\Users\user\Downloads\PacMan\Trainer.py", line 123, in main
+    torch.save(bufferPath)
+TypeError: save() missing 1 required positional argument: 'f'

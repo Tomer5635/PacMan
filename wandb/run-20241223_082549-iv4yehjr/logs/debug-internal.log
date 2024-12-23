@@ -1,0 +1,8 @@
+{"time":"2024-12-23T08:25:49.8644684+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T08:25:49.8649786+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241223_082549-iv4yehjr\\logs\\debug-core.log"}
+{"time":"2024-12-23T08:25:50.1040842+02:00","level":"INFO","msg":"created new stream","id":"iv4yehjr"}
+{"time":"2024-12-23T08:25:50.1046068+02:00","level":"INFO","msg":"sender: started","stream_id":"iv4yehjr"}
+{"time":"2024-12-23T08:25:50.1046068+02:00","level":"INFO","msg":"handler: started","stream_id":"iv4yehjr"}
+{"time":"2024-12-23T08:25:50.1046068+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"iv4yehjr"}
+{"time":"2024-12-23T08:25:50.1046068+02:00","level":"INFO","msg":"stream: started","id":"iv4yehjr"}
+{"time":"2024-12-23T08:25:50.4260075+02:00","level":"INFO","msg":"Starting system monitor"}

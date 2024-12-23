@@ -1,0 +1,23 @@
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+Traceback (most recent call last):
+  File "c:\Users\user\Downloads\PacMan\Trainer.py", line 155, in <module>
+    main ()
+  File "c:\Users\user\Downloads\PacMan\Trainer.py", line 87, in main
+    gameTick,nextState,reward=game.tick(gameTick,action)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\Downloads\PacMan\environment.py", line 291, in tick
+    self.ghostModeUpdate()
+  File "c:\Users\user\Downloads\PacMan\environment.py", line 128, in ghostModeUpdate
+    x,y=np.argwhere(self.board==i-10)[0]
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0

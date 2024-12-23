@@ -1,0 +1,16 @@
+{"time":"2024-12-23T08:38:48.6657881+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T08:38:48.6659739+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241223_083848-sbpywa5z\\logs\\debug-core.log"}
+{"time":"2024-12-23T08:38:48.7800564+02:00","level":"INFO","msg":"created new stream","id":"sbpywa5z"}
+{"time":"2024-12-23T08:38:48.7800564+02:00","level":"INFO","msg":"stream: started","id":"sbpywa5z"}
+{"time":"2024-12-23T08:38:48.7800564+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"sbpywa5z"}
+{"time":"2024-12-23T08:38:48.7800564+02:00","level":"INFO","msg":"handler: started","stream_id":"sbpywa5z"}
+{"time":"2024-12-23T08:38:48.7805667+02:00","level":"INFO","msg":"sender: started","stream_id":"sbpywa5z"}
+{"time":"2024-12-23T08:38:49.1003307+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T08:39:43.579627+02:00","level":"INFO","msg":"stream: closing","id":"sbpywa5z"}
+{"time":"2024-12-23T08:39:43.579627+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T08:39:43.5801442+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T08:39:44.3876575+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T08:39:44.6113322+02:00","level":"INFO","msg":"handler: closed","stream_id":"sbpywa5z"}
+{"time":"2024-12-23T08:39:44.6113322+02:00","level":"INFO","msg":"sender: closed","stream_id":"sbpywa5z"}
+{"time":"2024-12-23T08:39:44.6113322+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"sbpywa5z"}
+{"time":"2024-12-23T08:39:44.6118565+02:00","level":"INFO","msg":"stream: closed","id":"sbpywa5z"}

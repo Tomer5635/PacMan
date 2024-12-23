@@ -1,0 +1,16 @@
+{"time":"2024-12-23T08:29:47.5250565+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T08:29:47.5250565+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241223_082947-x26an5l3\\logs\\debug-core.log"}
+{"time":"2024-12-23T08:29:47.6362155+02:00","level":"INFO","msg":"created new stream","id":"x26an5l3"}
+{"time":"2024-12-23T08:29:47.6362155+02:00","level":"INFO","msg":"stream: started","id":"x26an5l3"}
+{"time":"2024-12-23T08:29:47.6362155+02:00","level":"INFO","msg":"handler: started","stream_id":"x26an5l3"}
+{"time":"2024-12-23T08:29:47.6362155+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"x26an5l3"}
+{"time":"2024-12-23T08:29:47.6362155+02:00","level":"INFO","msg":"sender: started","stream_id":"x26an5l3"}
+{"time":"2024-12-23T08:29:47.8981435+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T08:30:18.7462819+02:00","level":"INFO","msg":"stream: closing","id":"x26an5l3"}
+{"time":"2024-12-23T08:30:18.7462819+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T08:30:18.7470898+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T08:30:19.6617118+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T08:30:19.9058003+02:00","level":"INFO","msg":"handler: closed","stream_id":"x26an5l3"}
+{"time":"2024-12-23T08:30:19.9058003+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"x26an5l3"}
+{"time":"2024-12-23T08:30:19.9058003+02:00","level":"INFO","msg":"sender: closed","stream_id":"x26an5l3"}
+{"time":"2024-12-23T08:30:19.9066826+02:00","level":"INFO","msg":"stream: closed","id":"x26an5l3"}

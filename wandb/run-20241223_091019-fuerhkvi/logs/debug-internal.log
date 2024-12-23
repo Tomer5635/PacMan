@@ -1,0 +1,8 @@
+{"time":"2024-12-23T09:10:19.7373069+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T09:10:19.7373069+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241223_091019-fuerhkvi\\logs\\debug-core.log"}
+{"time":"2024-12-23T09:10:19.8473905+02:00","level":"INFO","msg":"created new stream","id":"fuerhkvi"}
+{"time":"2024-12-23T09:10:19.8473905+02:00","level":"INFO","msg":"stream: started","id":"fuerhkvi"}
+{"time":"2024-12-23T09:10:19.8473905+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"fuerhkvi"}
+{"time":"2024-12-23T09:10:19.8473905+02:00","level":"INFO","msg":"sender: started","stream_id":"fuerhkvi"}
+{"time":"2024-12-23T09:10:19.8473905+02:00","level":"INFO","msg":"handler: started","stream_id":"fuerhkvi"}
+{"time":"2024-12-23T09:10:20.1479194+02:00","level":"INFO","msg":"Starting system monitor"}

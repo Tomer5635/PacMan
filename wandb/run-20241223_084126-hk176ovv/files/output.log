@@ -1,0 +1,21 @@
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+GAME OVER
+Traceback (most recent call last):
+  File "c:\Users\user\Downloads\PacMan\Trainer.py", line 155, in <module>
+    main ()
+  File "c:\Users\user\Downloads\PacMan\Trainer.py", line 87, in main
+    gameTick,nextState,reward=game.tick(gameTick,action)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\Downloads\PacMan\environment.py", line 291, in tick
+    self.ghostModeUpdate()
+  File "c:\Users\user\Downloads\PacMan\environment.py", line 125, in ghostModeUpdate
+    for i in range(min(2+self.points/300,4)):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'float' object cannot be interpreted as an integer

@@ -1,0 +1,16 @@
+{"time":"2024-12-23T09:33:28.9611869+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T09:33:28.9611869+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241223_093328-ml5yd1os\\logs\\debug-core.log"}
+{"time":"2024-12-23T09:33:29.0752225+02:00","level":"INFO","msg":"created new stream","id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:29.0752225+02:00","level":"INFO","msg":"stream: started","id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:29.0757433+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:29.0757765+02:00","level":"INFO","msg":"handler: started","stream_id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:29.0757765+02:00","level":"INFO","msg":"sender: started","stream_id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:29.4048342+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T09:33:30.1967523+02:00","level":"INFO","msg":"stream: closing","id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:30.1967523+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T09:33:30.1973464+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T09:33:31.4963254+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T09:33:31.7985882+02:00","level":"INFO","msg":"handler: closed","stream_id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:31.7985882+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:31.7985882+02:00","level":"INFO","msg":"sender: closed","stream_id":"ml5yd1os"}
+{"time":"2024-12-23T09:33:31.7991328+02:00","level":"INFO","msg":"stream: closed","id":"ml5yd1os"}

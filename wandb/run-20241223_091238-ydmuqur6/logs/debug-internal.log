@@ -1,0 +1,17 @@
+{"time":"2024-12-23T09:12:38.2053751+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T09:12:38.2053751+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241223_091238-ydmuqur6\\logs\\debug-core.log"}
+{"time":"2024-12-23T09:12:38.315216+02:00","level":"INFO","msg":"created new stream","id":"ydmuqur6"}
+{"time":"2024-12-23T09:12:38.315216+02:00","level":"INFO","msg":"stream: started","id":"ydmuqur6"}
+{"time":"2024-12-23T09:12:38.315216+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ydmuqur6"}
+{"time":"2024-12-23T09:12:38.315216+02:00","level":"INFO","msg":"handler: started","stream_id":"ydmuqur6"}
+{"time":"2024-12-23T09:12:38.315216+02:00","level":"INFO","msg":"sender: started","stream_id":"ydmuqur6"}
+{"time":"2024-12-23T09:12:38.6126089+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T09:13:20.2649849+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/pigithepigman-mc-park-hamada/pacman-project/ydmuqur6/file_stream\": read tcp 192.168.243.141:52807->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2024-12-23T09:25:39.450646+02:00","level":"INFO","msg":"stream: closing","id":"ydmuqur6"}
+{"time":"2024-12-23T09:25:39.450646+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T09:25:39.4511627+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T09:25:40.214698+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T09:25:40.4701535+02:00","level":"INFO","msg":"handler: closed","stream_id":"ydmuqur6"}
+{"time":"2024-12-23T09:25:40.470223+02:00","level":"INFO","msg":"sender: closed","stream_id":"ydmuqur6"}
+{"time":"2024-12-23T09:25:40.470223+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ydmuqur6"}
+{"time":"2024-12-23T09:25:40.470223+02:00","level":"INFO","msg":"stream: closed","id":"ydmuqur6"}
