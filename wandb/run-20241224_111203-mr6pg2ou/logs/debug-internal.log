@@ -1,0 +1,16 @@
+{"time":"2024-12-24T11:12:03.4987331+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-24T11:12:03.4987331+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241224_111203-mr6pg2ou\\logs\\debug-core.log"}
+{"time":"2024-12-24T11:12:03.6074018+02:00","level":"INFO","msg":"created new stream","id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:03.6074018+02:00","level":"INFO","msg":"stream: started","id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:03.6079337+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:03.6079337+02:00","level":"INFO","msg":"handler: started","stream_id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:03.6079337+02:00","level":"INFO","msg":"sender: started","stream_id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:04.0565932+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-24T11:12:52.8792073+02:00","level":"INFO","msg":"stream: closing","id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:52.8792073+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-24T11:12:52.8798281+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-24T11:12:53.6817118+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-24T11:12:53.9261369+02:00","level":"INFO","msg":"handler: closed","stream_id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:53.9261369+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:53.9261369+02:00","level":"INFO","msg":"sender: closed","stream_id":"mr6pg2ou"}
+{"time":"2024-12-24T11:12:53.9268289+02:00","level":"INFO","msg":"stream: closed","id":"mr6pg2ou"}

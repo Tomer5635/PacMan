@@ -1,0 +1,37 @@
+GAME OVER
+epoch: 0, score: 370, best score: 370, loss: -1.0
+GAME OVER0
+epoch: 1, score: 370, best score: 370, loss: -1.0
+GAME OVER5
+epoch: 2, score: 370, best score: 370, loss: -1.0
+GAME OVER0
+epoch: 3, score: 370, best score: 370, loss: -1.0
+GAME OVER5
+epoch: 4, score: 370, best score: 370, loss: -1.0
+GAME OVER0
+epoch: 5, score: 370, best score: 370, loss: -1.0
+GAME OVER5
+epoch: 6, score: 370, best score: 370, loss: -1.0
+GAME OVER0
+epoch: 7, score: 370, best score: 370, loss: -1.0
+GAME OVER5
+epoch: 8, score: 370, best score: 370, loss: -1.0
+GAME OVER0
+epoch: 9, score: 370, best score: 370, loss: -1.0
+GAME OVER5
+epoch: 10, score: 370, best score: 370, loss: -1.0
+GAME OVER0
+epoch: 11, score: 370, best score: 370, loss: -1.0
+GAME OVER5
+epoch: 12, score: 370, best score: 370, loss: -1.0
+step:  987
+Traceback (most recent call last):
+  File "c:\Users\user\Downloads\PacMan\Trainer.py", line 165, in <module>
+    main ()
+  File "c:\Users\user\Downloads\PacMan\Trainer.py", line 118, in main
+    loss.backward()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\_tensor.py", line 487, in backward
+    torch.autograd.backward(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\autograd\__init__.py", line 200, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+RuntimeError: element 0 of tensors does not require grad and does not have a grad_fn

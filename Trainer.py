@@ -49,7 +49,7 @@ def main ():
     "dataset": "PACMAN",
     "epochs": epochs,
     }
-)
+    )
 
     ######### checkpoint Load ############
     # checkpoint_path = "Data/checkpoint20.pth"
@@ -75,6 +75,7 @@ def main ():
         state = game.state()
         gameTick=0
         run = True
+        steps=0
         while run:
             events = pygame.event.get()
             for event in events:
@@ -83,33 +84,36 @@ def main ():
             gameTick=gameTick%264
             ############## Sample Environement #########################
             if gameTick%6==0:
+                step+=1
+                print("step: ",step, end="\r")
                 action = player.getAction(state=state, epoch=epoch,train=False)
-                # graphics.Graphics.game_screen(screen,game)
+                graphics.Graphics.game_screen(screen,game)
                 gameTick,nextState,reward=game.tick(gameTick,action)
                 buffer.push(state, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), 
                             nextState, torch.tensor(game.game_over!=False, dtype=torch.float32))
             else:
                 gameTick,midState,_=game.tick(gameTick,action)
-                # graphics.Graphics.game_screen(screen,game)
+                graphics.Graphics.game_screen(screen,game)
 
             if game.game_over:
                 best_score = max(best_score, game.points)
                 buffer.push(state, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), midState, torch.tensor(game.game_over!=False, dtype=torch.float32))
-                # graphics.Graphics.game_screen(screen,game)
-                # pygame.display.update()
+                graphics.Graphics.game_screen(screen,game)
+                pygame.display.update()
                 break
             state = nextState
 
-            # pygame.display.update()
+            pygame.display.update()
             clock.tick(1000)
             
-            if len(buffer) < 1000:
+            if len(buffer) < 100:
                 continue
     
             ############## Train ################
             states, actions, rewards, next_states, dones = buffer.sample(batch_size)
             Q_values = player.getActionValues(states)
             Q_hat_Values = player_hat.getActionValues(states)
+            loss = player.DQN.loss(Q_values, rewards, Q_hat_Values, dones)
 
             loss.backward()
             optim.step()
@@ -118,12 +122,15 @@ def main ():
             wandb.log({ "loss": loss})
         if epoch % C == 0:
             player_hat.DQN.load_state_dict(player.DQN.state_dict())
-        if epoch%10 == 0:
-            player.save_param(path)
-            torch.save(buffer,bufferPath)
-            print ("epoch:",epoch,"  best score:",best_score)
-
+        
+        
+       
         #########################################
+
+        # player.save_param(path)
+        # torch.save(buffer,bufferPath)
+        print (f"epoch: {epoch}, score: {game.points}, best score: {best_score}, loss: {loss}")
+
         # print (f'epoch: {epoch} loss: {loss:.7f} LR: {scheduler.get_last_lr()} step: {step} ' \
         #        f'score: {game.points} best_score: {best_score}')
         # step = 0

@@ -1,0 +1,8 @@
+GAME OVER
+Traceback (most recent call last):
+  File "c:\Users\user\Downloads\PacMan\Tester.py", line 75, in <module>
+    main()
+  File "c:\Users\user\Downloads\PacMan\Tester.py", line 73, in main
+    gameTick,midState,_=game.tick(gameTick,action)
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable int object

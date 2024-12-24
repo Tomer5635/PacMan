@@ -1,0 +1,16 @@
+{"time":"2024-12-24T10:53:17.0822645+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-24T10:53:17.0822645+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241224_105317-pm2d2c9m\\logs\\debug-core.log"}
+{"time":"2024-12-24T10:53:17.3227373+02:00","level":"INFO","msg":"created new stream","id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:17.3232673+02:00","level":"INFO","msg":"stream: started","id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:17.3232673+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:17.3232673+02:00","level":"INFO","msg":"handler: started","stream_id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:17.3238919+02:00","level":"INFO","msg":"sender: started","stream_id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:17.6682921+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-24T10:53:18.177619+02:00","level":"INFO","msg":"stream: closing","id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:18.177619+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-24T10:53:18.1781333+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-24T10:53:19.8760493+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-24T10:53:20.1306027+02:00","level":"INFO","msg":"handler: closed","stream_id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:20.1306027+02:00","level":"INFO","msg":"sender: closed","stream_id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:20.1306027+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pm2d2c9m"}
+{"time":"2024-12-24T10:53:20.1312102+02:00","level":"INFO","msg":"stream: closed","id":"pm2d2c9m"}

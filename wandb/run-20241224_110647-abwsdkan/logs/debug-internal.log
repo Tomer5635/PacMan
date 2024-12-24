@@ -1,0 +1,8 @@
+{"time":"2024-12-24T11:06:47.1445534+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-24T11:06:47.1445534+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241224_110647-abwsdkan\\logs\\debug-core.log"}
+{"time":"2024-12-24T11:06:47.2544064+02:00","level":"INFO","msg":"created new stream","id":"abwsdkan"}
+{"time":"2024-12-24T11:06:47.2544064+02:00","level":"INFO","msg":"stream: started","id":"abwsdkan"}
+{"time":"2024-12-24T11:06:47.2544064+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"abwsdkan"}
+{"time":"2024-12-24T11:06:47.2551895+02:00","level":"INFO","msg":"handler: started","stream_id":"abwsdkan"}
+{"time":"2024-12-24T11:06:47.2551895+02:00","level":"INFO","msg":"sender: started","stream_id":"abwsdkan"}
+{"time":"2024-12-24T11:06:47.5808086+02:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,8 @@
+{"time":"2024-12-24T11:03:35.4141693+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-24T11:03:35.4146786+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20241224_110335-uvpl0jj3\\logs\\debug-core.log"}
+{"time":"2024-12-24T11:03:35.5210819+02:00","level":"INFO","msg":"created new stream","id":"uvpl0jj3"}
+{"time":"2024-12-24T11:03:35.5210819+02:00","level":"INFO","msg":"stream: started","id":"uvpl0jj3"}
+{"time":"2024-12-24T11:03:35.5210819+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"uvpl0jj3"}
+{"time":"2024-12-24T11:03:35.5210819+02:00","level":"INFO","msg":"handler: started","stream_id":"uvpl0jj3"}
+{"time":"2024-12-24T11:03:35.5210819+02:00","level":"INFO","msg":"sender: started","stream_id":"uvpl0jj3"}
+{"time":"2024-12-24T11:03:35.8472418+02:00","level":"INFO","msg":"Starting system monitor"}

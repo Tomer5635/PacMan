@@ -5,10 +5,10 @@ from HumanAgent import agent as HumanAgent
 from DQN_Agent import DQN_Agent
 pygame.init()
 path = "Data/parameters1"
-# player = HumanAgent()
-player=DQN_Agent(path)
-player.load_params(path)
-player.save_param(path)
+player = HumanAgent()
+# player=DQN_Agent(path)
+# player.load_params(path)
+# player.save_param(path)
 width , height = 540,710
 clock = pygame.time.Clock()
 screen = pygame.display.set_mode((width,height))
@@ -41,7 +41,6 @@ def main ():
        
         pygame.display.update()
         clock.tick(60)
-    print(game.state())
     
         
 

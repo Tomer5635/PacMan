@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.11.5",
+  "startedAt": "2024-12-24T09:10:50.555169Z",
+  "program": "c:\\Users\\user\\Downloads\\PacMan\\Trainer.py",
+  "codePath": "Trainer.py",
+  "git": {
+    "remote": "https://github.com/Tomer5635/PacMan.git",
+    "commit": "307a7ae8462711b8510982e7d0e895d5a46e4002"
+  },
+  "email": "pigithepigman.mc@gmail.com",
+  "root": "C:\\Users\\user\\Downloads\\PacMan",
+  "host": "DESKTOP-5SLDEF6",
+  "executable": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "codePathLocal": "Trainer.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 20,
+  "disk": {
+    "/": {
+      "total": "255255900160",
+      "used": "128686899200"
+    }
+  },
+  "memory": {
+    "total": "16845500416"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 20
+  }
+}
