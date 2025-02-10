@@ -1,0 +1,50 @@
+GAME OVER
+epoch: 0, score: 370, best score: 370, loss: -1.0
+GAME OVER8
+epoch: 1, score: 260, best score: 370, loss: 3.3166003227233887
+GAME OVER8
+epoch: 2, score: 440, best score: 440, loss: 26.287372589111328
+GAME OVER5
+epoch: 3, score: 270, best score: 440, loss: 13.668869972229004
+GAME OVER1
+epoch: 4, score: 240, best score: 440, loss: 14.61465072631836
+GAME OVER0
+epoch: 5, score: 500, best score: 500, loss: 4.294753074645996
+GAME OVER57
+epoch: 6, score: 560, best score: 560, loss: 2.7768337726593018
+GAME OVER53
+epoch: 7, score: 40, best score: 560, loss: 6.674582481384277
+GAME OVER55
+epoch: 8, score: 170, best score: 560, loss: 11.967616081237793
+GAME OVER69
+epoch: 9, score: 70, best score: 560, loss: 4.334879398345947
+GAME OVER54
+GAME OVER
+epoch: 10, score: 210, best score: 560, loss: 6.233366012573242
+GAME OVER31
+epoch: 11, score: 120, best score: 560, loss: 10.283565521240234
+GAME OVER45
+epoch: 12, score: 130, best score: 560, loss: 5.1060709953308105
+GAME OVER27
+epoch: 13, score: 220, best score: 560, loss: 9.332137107849121
+GAME OVER29
+epoch: 14, score: 220, best score: 560, loss: 6.6154375076293945
+GAME OVER22
+GAME OVER
+epoch: 15, score: 100, best score: 560, loss: 10.010724067687988
+GAME OVER04
+epoch: 16, score: 70, best score: 560, loss: 9.870987892150879
+GAME OVER18
+epoch: 17, score: 70, best score: 560, loss: 5.984860897064209
+GAME OVER01
+epoch: 18, score: 80, best score: 560, loss: 21.916427612304688
+GAME OVER85
+epoch: 19, score: 70, best score: 560, loss: 13.638991355895996
+GAME OVER30
+epoch: 20, score: 200, best score: 560, loss: 34.48086929321289
+GAME OVER10
+epoch: 21, score: 70, best score: 560, loss: 40.0545539855957
+GAME OVER57
+epoch: 22, score: 290, best score: 560, loss: 13.142097473144531
+epoch: 23, score: 60, best score: 560, loss: 29.699417114257812
+step:  3318

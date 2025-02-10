@@ -1,0 +1,10 @@
+GAME OVER
+epoch: 0, score: 370, best score: 370, loss: -1.0
+GAME OVER4
+epoch: 1, score: 190, best score: 370, loss: 13.423988342285156
+GAME OVER2
+epoch: 2, score: 330, best score: 370, loss: 3.973107099533081
+GAME OVER9
+epoch: 3, score: 310, best score: 370, loss: 4.312979698181152
+epoch: 4, score: 50, best score: 370, loss: 6.0714216232299805
+step:  576

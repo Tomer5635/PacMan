@@ -30,8 +30,7 @@ class DQN_Agent:
         # return random.choice(actions)
     
     def getActionValues(self,state):
-        with torch.no_grad():
-            Q_values = self.DQN(state)
+        Q_values = self.DQN(state)
         return Q_values
 
     

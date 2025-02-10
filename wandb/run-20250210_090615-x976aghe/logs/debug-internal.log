@@ -1,0 +1,8 @@
+{"time":"2025-02-10T09:06:15.5538572+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-02-10T09:06:15.5538572+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20250210_090615-x976aghe\\logs\\debug-core.log"}
+{"time":"2025-02-10T09:06:15.6676723+02:00","level":"INFO","msg":"created new stream","id":"x976aghe"}
+{"time":"2025-02-10T09:06:15.6676723+02:00","level":"INFO","msg":"stream: started","id":"x976aghe"}
+{"time":"2025-02-10T09:06:15.6682977+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"x976aghe"}
+{"time":"2025-02-10T09:06:15.6682977+02:00","level":"INFO","msg":"sender: started","stream_id":"x976aghe"}
+{"time":"2025-02-10T09:06:15.6682977+02:00","level":"INFO","msg":"handler: started","stream_id":"x976aghe"}
+{"time":"2025-02-10T09:06:15.9936925+02:00","level":"INFO","msg":"Starting system monitor"}

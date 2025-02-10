@@ -1,0 +1,4 @@
+GAME OVERstep:105, score: 190, best score: 0, loss: 37.222068786621094, reward:0
+GAME OVERstep:219, score: 120, best score: 190, loss: 3.4791102409362793, reward:00
+GAME OVERstep:396, score: 420, best score: 190, loss: 6.819703578948975, reward:000
+epoch: 3,step:2712, score: 250, best score: 420, loss: 9.621847152709961, reward:00

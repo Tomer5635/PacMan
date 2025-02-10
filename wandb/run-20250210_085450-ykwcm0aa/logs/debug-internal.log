@@ -1,0 +1,9 @@
+{"time":"2025-02-10T08:54:50.6188579+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-02-10T08:54:50.6188579+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20250210_085450-ykwcm0aa\\logs\\debug-core.log"}
+{"time":"2025-02-10T08:54:50.7245594+02:00","level":"INFO","msg":"created new stream","id":"ykwcm0aa"}
+{"time":"2025-02-10T08:54:50.7245594+02:00","level":"INFO","msg":"stream: started","id":"ykwcm0aa"}
+{"time":"2025-02-10T08:54:50.7245594+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ykwcm0aa"}
+{"time":"2025-02-10T08:54:50.7245594+02:00","level":"INFO","msg":"sender: started","stream_id":"ykwcm0aa"}
+{"time":"2025-02-10T08:54:50.7245594+02:00","level":"INFO","msg":"handler: started","stream_id":"ykwcm0aa"}
+{"time":"2025-02-10T08:54:50.991635+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-10T08:59:06.6231916+02:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/pigithepigman-mc-park-hamada/pacman-project/ykwcm0aa/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}

@@ -1,0 +1,16 @@
+{"time":"2025-02-10T09:07:49.8419822+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-02-10T09:07:49.842019+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20250210_090749-b15vmgrv\\logs\\debug-core.log"}
+{"time":"2025-02-10T09:07:49.9498982+02:00","level":"INFO","msg":"created new stream","id":"b15vmgrv"}
+{"time":"2025-02-10T09:07:49.9498982+02:00","level":"INFO","msg":"stream: started","id":"b15vmgrv"}
+{"time":"2025-02-10T09:07:49.9498982+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"b15vmgrv"}
+{"time":"2025-02-10T09:07:49.950426+02:00","level":"INFO","msg":"sender: started","stream_id":"b15vmgrv"}
+{"time":"2025-02-10T09:07:49.9498982+02:00","level":"INFO","msg":"handler: started","stream_id":"b15vmgrv"}
+{"time":"2025-02-10T09:07:50.2428427+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-10T09:23:28.381672+02:00","level":"INFO","msg":"stream: closing","id":"b15vmgrv"}
+{"time":"2025-02-10T09:23:28.3840157+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-10T09:23:28.3862946+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-10T09:23:29.0661003+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-10T09:23:29.3052719+02:00","level":"INFO","msg":"handler: closed","stream_id":"b15vmgrv"}
+{"time":"2025-02-10T09:23:29.3052719+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"b15vmgrv"}
+{"time":"2025-02-10T09:23:29.3052719+02:00","level":"INFO","msg":"sender: closed","stream_id":"b15vmgrv"}
+{"time":"2025-02-10T09:23:29.3058305+02:00","level":"INFO","msg":"stream: closed","id":"b15vmgrv"}

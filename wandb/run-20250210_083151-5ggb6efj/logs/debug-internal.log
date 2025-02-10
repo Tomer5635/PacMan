@@ -1,0 +1,8 @@
+{"time":"2025-02-10T08:31:51.2691588+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-02-10T08:31:51.2696903+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20250210_083151-5ggb6efj\\logs\\debug-core.log"}
+{"time":"2025-02-10T08:31:51.638624+02:00","level":"INFO","msg":"created new stream","id":"5ggb6efj"}
+{"time":"2025-02-10T08:31:51.638624+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"5ggb6efj"}
+{"time":"2025-02-10T08:31:51.6392769+02:00","level":"INFO","msg":"sender: started","stream_id":"5ggb6efj"}
+{"time":"2025-02-10T08:31:51.6392769+02:00","level":"INFO","msg":"stream: started","id":"5ggb6efj"}
+{"time":"2025-02-10T08:31:51.6391873+02:00","level":"INFO","msg":"handler: started","stream_id":"5ggb6efj"}
+{"time":"2025-02-10T08:31:51.9376622+02:00","level":"INFO","msg":"Starting system monitor"}

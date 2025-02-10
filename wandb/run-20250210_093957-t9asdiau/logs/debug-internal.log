@@ -1,0 +1,8 @@
+{"time":"2025-02-10T09:39:57.4115895+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-02-10T09:39:57.4115895+02:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\Downloads\\PacMan\\wandb\\run-20250210_093957-t9asdiau\\logs\\debug-core.log"}
+{"time":"2025-02-10T09:39:57.5188752+02:00","level":"INFO","msg":"created new stream","id":"t9asdiau"}
+{"time":"2025-02-10T09:39:57.5194025+02:00","level":"INFO","msg":"stream: started","id":"t9asdiau"}
+{"time":"2025-02-10T09:39:57.5194025+02:00","level":"INFO","msg":"handler: started","stream_id":"t9asdiau"}
+{"time":"2025-02-10T09:39:57.5196172+02:00","level":"INFO","msg":"sender: started","stream_id":"t9asdiau"}
+{"time":"2025-02-10T09:39:57.5196172+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"t9asdiau"}
+{"time":"2025-02-10T09:39:57.8118105+02:00","level":"INFO","msg":"Starting system monitor"}

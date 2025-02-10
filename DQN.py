@@ -53,7 +53,7 @@ class DQN (nn.Module):
     
 
     def loss (self, Q_value, rewards, Q_next_Values, Dones ):
-        Q_new = rewards + gamma * Q_next_Values * (1- Dones)
+        Q_new = rewards + gamma * Q_next_Values.detach() * (1- Dones)
         return MSELoss(Q_value, Q_new)
 
     def epsilon_greedy(self, epoch, start = epsilon_start, final=epsilon_final, decay=epsilon_decay):

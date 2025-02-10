@@ -25,10 +25,10 @@ def main ():
     player.save_param(path)
     player_hat = DQN_Agent()
     player_hat.DQN = player.DQN.copy()
-    batch_size = 50
+    batch_size = 500
     buffer = ReplayBuffer()
-    learning_rate = 0.00001
-    epochs = 100
+    learning_rate = 0.001
+    epochs = 1000
     start_epoch = 0
     C = 3
     loss = torch.tensor(-1,dtype=torch.float32,requires_grad=True)
@@ -85,7 +85,6 @@ def main ():
             ############## Sample Environement #########################
             if gameTick%6==0:
                 step+=1
-                print("step: ",step, end="\r")
                 action = player.getAction(state=state, epoch=epoch,train=False)
                 graphics.Graphics.game_screen(screen,game)
                 gameTick,nextState,reward=game.tick(gameTick,action)
@@ -110,26 +109,29 @@ def main ():
                 continue
     
             ############## Train ################
-            states, actions, rewards, next_states, dones = buffer.sample(batch_size)
-            Q_values = player.getActionValues(states)
-            Q_hat_Values = player_hat.getActionValues(states)
-            loss = player.DQN.loss(Q_values, rewards, Q_hat_Values, dones)
+            if gameTick%6==0:
+                states, actions, rewards, next_states, dones = buffer.sample(batch_size)
+                Q_values = player.getActionValues(states)
+                Q_hat_Values = player_hat.getActionValues(next_states).detach()
+                loss = player.DQN.loss(Q_values, rewards, Q_hat_Values, dones)
 
-            loss.backward()
-            optim.step()
-            optim.zero_grad()
-            scheduler.step()
-            wandb.log({ "loss": loss})
+                loss.backward()
+                optim.step()
+                optim.zero_grad()
+                scheduler.step()
+                wandb.log({ "loss": loss})
+                print (f"epoch: {epoch},step:{step}, score: {game.points}, best score: {best_score}, loss: {loss}, reward:{reward}", end="\r")
         if epoch % C == 0:
             player_hat.DQN.load_state_dict(player.DQN.state_dict())
+            player.save_param(path)
         
         
        
         #########################################
 
-        # player.save_param(path)
+        
         # torch.save(buffer,bufferPath)
-        print (f"epoch: {epoch}, score: {game.points}, best score: {best_score}, loss: {loss}")
+        
 
         # print (f'epoch: {epoch} loss: {loss:.7f} LR: {scheduler.get_last_lr()} step: {step} ' \
         #        f'score: {game.points} best_score: {best_score}')
