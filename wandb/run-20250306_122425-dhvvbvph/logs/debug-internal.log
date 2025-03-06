@@ -1,0 +1,7 @@
+{"time":"2025-03-06T12:24:25.8597367+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Talmid\\PacMan\\wandb\\run-20250306_122425-dhvvbvph\\logs\\debug-core.log"}
+{"time":"2025-03-06T12:24:25.9807572+02:00","level":"INFO","msg":"created new stream","id":"dhvvbvph"}
+{"time":"2025-03-06T12:24:25.9807572+02:00","level":"INFO","msg":"stream: started","id":"dhvvbvph"}
+{"time":"2025-03-06T12:24:25.9827339+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"dhvvbvph"}
+{"time":"2025-03-06T12:24:25.9832525+02:00","level":"INFO","msg":"handler: started","stream_id":"dhvvbvph"}
+{"time":"2025-03-06T12:24:25.9838444+02:00","level":"INFO","msg":"sender: started","stream_id":"dhvvbvph"}
+{"time":"2025-03-06T12:24:26.4676432+02:00","level":"INFO","msg":"Starting system monitor"}

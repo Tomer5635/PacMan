@@ -1,0 +1,15 @@
+{"time":"2025-03-06T11:16:56.6225434+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Talmid\\PacMan\\wandb\\run-20250306_111656-tgx038wc\\logs\\debug-core.log"}
+{"time":"2025-03-06T11:16:56.7451361+02:00","level":"INFO","msg":"created new stream","id":"tgx038wc"}
+{"time":"2025-03-06T11:16:56.7456463+02:00","level":"INFO","msg":"stream: started","id":"tgx038wc"}
+{"time":"2025-03-06T11:16:56.7456463+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"tgx038wc"}
+{"time":"2025-03-06T11:16:56.7461248+02:00","level":"INFO","msg":"handler: started","stream_id":"tgx038wc"}
+{"time":"2025-03-06T11:16:56.7461248+02:00","level":"INFO","msg":"sender: started","stream_id":"tgx038wc"}
+{"time":"2025-03-06T11:16:57.2205529+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:17:13.5618306+02:00","level":"INFO","msg":"stream: closing","id":"tgx038wc"}
+{"time":"2025-03-06T11:17:13.5618306+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:17:13.5627013+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:17:14.6327462+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:17:15.0139404+02:00","level":"INFO","msg":"handler: closed","stream_id":"tgx038wc"}
+{"time":"2025-03-06T11:17:15.0139404+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tgx038wc"}
+{"time":"2025-03-06T11:17:15.0139404+02:00","level":"INFO","msg":"sender: closed","stream_id":"tgx038wc"}
+{"time":"2025-03-06T11:17:15.0145527+02:00","level":"INFO","msg":"stream: closed","id":"tgx038wc"}

@@ -1,0 +1,29 @@
+GAME OVER
+epoch: 0 loss: -1.0000000 LR: [0.001] step: 90 score: 40 best_score: 40
+GAME OVERstep:97, score: 40, best score: 40, loss: 2.4218573570251465, reward:0
+epoch: 1 loss: 2.4218574 LR: [0.001] step: 98 score: 40 best_score: 40
+GAME OVERstep:97, score: 40, best score: 40, loss: 1.637095332145691, reward:00
+epoch: 2 loss: 1.6370953 LR: [0.001] step: 98 score: 40 best_score: 40
+GAME OVERstep:179, score: 250, best score: 40, loss: 2.0506319999694824, reward:0
+epoch: 3 loss: 2.0506320 LR: [0.001] step: 180 score: 250 best_score: 250
+GAME OVERstep:157, score: 630, best score: 250, loss: 5.001190662384033, reward:00
+epoch: 4 loss: 5.0011907 LR: [0.001] step: 158 score: 630 best_score: 630
+GAME OVERstep:90, score: 40, best score: 630, loss: 3.92085599899292, reward:000
+epoch: 5 loss: 3.9208560 LR: [0.001] step: 91 score: 40 best_score: 630
+GAME OVERstep:100, score: 40, best score: 630, loss: 3.782982110977173, reward:0
+GAME OVER
+epoch: 6 loss: 3.7829821 LR: [0.001] step: 101 score: 40 best_score: 630
+GAME OVERstep:20, score: 190, best score: 630, loss: 9.038864135742188, reward:100
+epoch: 7 loss: 9.0388641 LR: [0.001] step: 21 score: 190 best_score: 630
+GAME OVERstep:97, score: 60, best score: 630, loss: 4.336480140686035, reward:00
+epoch: 8 loss: 4.3364801 LR: [0.001] step: 98 score: 60 best_score: 630
+GAME OVERstep:97, score: 40, best score: 630, loss: 2.6498498916625977, reward:0
+epoch: 9 loss: 2.6498499 LR: [0.001] step: 98 score: 40 best_score: 630
+average score last 10 games: 137.0
+GAME OVER,step:97, score: 40, best score: 630, loss: 2.498474597930908, reward:00
+epoch: 10 loss: 2.4984746 LR: [0.001] step: 98 score: 40 best_score: 630
+GAME OVER,step:97, score: 120, best score: 630, loss: 4.298088073730469, reward:10
+epoch: 11 loss: 4.2980881 LR: [0.001] step: 98 score: 130 best_score: 630
+GAME OVER,step:98, score: 40, best score: 630, loss: 2.855341911315918, reward:00
+epoch: 12 loss: 2.8553419 LR: [0.001] step: 99 score: 40 best_score: 630
+epoch: 13,step:10648, score: 230, best score: 630, loss: 0.2664870023727417, reward:00

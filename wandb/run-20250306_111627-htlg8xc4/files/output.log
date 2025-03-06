@@ -1,0 +1,8 @@
+epoch: 0 loss: -1.0000000 LR: [0.001] step: 3 score: 30 best_score: 0
+Traceback (most recent call last):
+  File "c:\Users\Talmid\PacMan\Trainer.py", line 171, in <module>
+    main ()
+  File "c:\Users\Talmid\PacMan\Trainer.py", line 164, in main
+    wandb.log(checkpoint)
+              ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'checkpoint' where it is not associated with a value

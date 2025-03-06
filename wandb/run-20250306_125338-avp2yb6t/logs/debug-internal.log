@@ -1,0 +1,7 @@
+{"time":"2025-03-06T12:53:39.0270819+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Talmid\\PacMan\\wandb\\run-20250306_125338-avp2yb6t\\logs\\debug-core.log"}
+{"time":"2025-03-06T12:53:39.1496564+02:00","level":"INFO","msg":"created new stream","id":"avp2yb6t"}
+{"time":"2025-03-06T12:53:39.1496564+02:00","level":"INFO","msg":"stream: started","id":"avp2yb6t"}
+{"time":"2025-03-06T12:53:39.1498555+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"avp2yb6t"}
+{"time":"2025-03-06T12:53:39.1498555+02:00","level":"INFO","msg":"handler: started","stream_id":"avp2yb6t"}
+{"time":"2025-03-06T12:53:39.1498555+02:00","level":"INFO","msg":"sender: started","stream_id":"avp2yb6t"}
+{"time":"2025-03-06T12:53:39.6125108+02:00","level":"INFO","msg":"Starting system monitor"}

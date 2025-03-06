@@ -10,8 +10,8 @@ WIDTH , HEIGHT = 540,710
 def main ():
 
     pygame.init()
-    path = "Data/parameters1"
-    bufferPath = "Data/buffer1"
+    path = "Data/parameters2"
+    bufferPath = "Data/buffer2"
     clock = pygame.time.Clock()
     screen = pygame.display.set_mode((WIDTH,HEIGHT))
     pygame.display.set_caption('PAC MAN')
@@ -21,7 +21,7 @@ def main ():
 
     ####### params ############
     player = DQN_Agent(path)
-    player.load_params(path)
+    # player.load_params(path)
     player.save_param(path)
     player_hat = DQN_Agent()
     player_hat.DQN = player.DQN.copy()
@@ -30,30 +30,32 @@ def main ():
     learning_rate = 0.001
     epochs = 1000
     start_epoch = 0
+    gamma=0.1
     C = 3
     loss = torch.tensor(-1,dtype=torch.float32,requires_grad=True)
     avg = 0
     scores, losses, avg_score = [], [], []
     optim = torch.optim.Adam(player.DQN.parameters(), lr=learning_rate)
     # scheduler = torch.optim.lr_scheduler.StepLR(optim,100000, gamma=0.50)
-    scheduler = torch.optim.lr_scheduler.MultiStepLR(optim,[5000*1000, 10000*1000, 15000*1000], gamma=0.5)
+    scheduler = torch.optim.lr_scheduler.MultiStepLR(optim,[5000*1000, 10000*1000, 15000*1000], gamma=gamma)
     step = 0
     wandb.init(
     # set the wandb project where this run will be logged
     project="pacman-project",
-
-    # track hyperparameters and run metadata
     config={
     "learning_rate": learning_rate,
     "architecture": "DQN",
     "dataset": "PACMAN",
     "epochs": epochs,
+    "batch_size":batch_size,
+    "gamma":gamma
+
     }
     )
 
     ######### checkpoint Load ############
-    # checkpoint_path = "Data/checkpoint20.pth"
-    # buffer_path = "Data/buffer20.pth"
+    checkpoint_path = "Data/checkpoint1.pth"
+    buffer_path = "Data/buffer1.pth"
     # if os.path.exists(checkpoint_path):
     #     checkpoint = torch.load(checkpoint_path)
     #     start_epoch = checkpoint['epoch']+1
@@ -121,6 +123,7 @@ def main ():
                 scheduler.step()
                 wandb.log({ "loss": loss})
                 print (f"epoch: {epoch},step:{step}, score: {game.points}, best score: {best_score}, loss: {loss}, reward:{reward}", end="\r")
+                
         if epoch % C == 0:
             player_hat.DQN.load_state_dict(player.DQN.state_dict())
             player.save_param(path)
@@ -130,34 +133,42 @@ def main ():
         #########################################
 
         
-        # torch.save(buffer,bufferPath)
+        torch.save(buffer,bufferPath)
         
 
-        # print (f'epoch: {epoch} loss: {loss:.7f} LR: {scheduler.get_last_lr()} step: {step} ' \
-        #        f'score: {game.points} best_score: {best_score}')
-        # step = 0
-        # if epoch % 10 == 0:
-        #     scores.append(game.points)
-        #     losses.append(loss.item())
+        print (f'epoch: {epoch} loss: {loss:.7f} LR: {scheduler.get_last_lr()} step: {step} ' \
+               f'score: {game.points} best_score: {best_score}')
+        step = 0
+        scores.append(game.points)
+        losses.append(loss.item())
 
-        # avg = (avg * (epoch % 10) + game.points) / (epoch % 10 + 1)
-        # if (epoch + 1) % 10 == 0:
-        #     avg_score.append(avg)
-        #     print (f'average score last 10 games: {avg} ')
-        #     avg = 0
+        avg = (avg * (epoch % 10) + game.points) / (epoch % 10 + 1)
+        if (epoch + 1) % 10 == 0:
+            avg_score.append(avg)
+            print (f'average score last 10 games: {avg} ')
+            avg = 0
 
-        # if epoch % 1000 == 0 and epoch > 0:
-        #     checkpoint = {
-        #         'epoch': epoch,
-        #         'model_state_dict': player.DQN.state_dict(),
-        #         'optimizer_state_dict': optim.state_dict(),
-        #         'scheduler_state_dict': scheduler.state_dict(),
-        #         'loss': losses,
-        #         'scores':scores,
-        #         'avg_score': avg_score
-        #     }
-        #     torch.save(checkpoint, checkpoint_path)
-        #     torch.save(buffer, buffer_path)
+        wnblog = {
+                        'epoch': epoch,
+                        'loss': losses,
+                        'score':game.points
+            }
+        wandb.log(wnblog)
+        if epoch % 5 == 0 and epoch > 0:
+            checkpoint = {
+                'epoch': epoch,
+                'model_state_dict': player.DQN.state_dict(),
+                'optimizer_state_dict': optim.state_dict(),
+                'scheduler_state_dict': scheduler.state_dict(),
+                'loss': losses,
+                'scores':scores,
+                'avg_score': avg_score
+            }
+            
+            torch.save(checkpoint, checkpoint_path)
+            torch.save(buffer, buffer_path)
+           
+        
 
         
 

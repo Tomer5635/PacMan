@@ -1,0 +1,4 @@
+epoch: 0 loss: -1.0000000 LR: [0.001] step: 68 score: 80 best_score: 0
+epoch: 1 loss: -1.0000000 LR: [0.001] step: 5 score: 50 best_score: 0
+epoch: 2 loss: -1.0000000 LR: [0.001] step: 4 score: 40 best_score: 0
+epoch: 3 loss: -1.0000000 LR: [0.001] step: 2 score: 20 best_score: 0

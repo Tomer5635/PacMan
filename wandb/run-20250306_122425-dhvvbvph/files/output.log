@@ -1,0 +1,60 @@
+GAME OVERstep:173, score: 390, best score: 0, loss: 1.1513469219207764, reward:00
+epoch: 0 loss: 1.1513469 LR: [0.001] step: 174 score: 390 best_score: 390
+GAME OVERstep:81, score: 100, best score: 390, loss: 0.90388023853302, reward:0:00
+epoch: 1 loss: 0.9038802 LR: [0.001] step: 82 score: 100 best_score: 390
+GAME OVERstep:116, score: 720, best score: 390, loss: 46.592464447021484, reward:00
+epoch: 2 loss: 46.5924644 LR: [0.001] step: 117 score: 720 best_score: 720
+GAME OVERstep:73, score: 110, best score: 720, loss: 5.580810546875, reward:0d:000
+epoch: 3 loss: 5.5808105 LR: [0.001] step: 74 score: 110 best_score: 720
+GAME OVERstep:265, score: 620, best score: 720, loss: 3.2783427238464355, reward:00
+epoch: 4 loss: 3.2783427 LR: [0.001] step: 266 score: 620 best_score: 720
+GAME OVERstep:151, score: 660, best score: 720, loss: 6.183867931365967, reward:000
+epoch: 5 loss: 6.1838679 LR: [0.001] step: 152 score: 660 best_score: 720
+GAME OVERstep:81, score: 70, best score: 720, loss: 4.170535087585449, reward:00
+epoch: 6 loss: 4.1705351 LR: [0.001] step: 82 score: 70 best_score: 720
+GAME OVERstep:74, score: 90, best score: 720, loss: 9.4799222946167, reward:0:00
+epoch: 7 loss: 9.4799223 LR: [0.001] step: 75 score: 90 best_score: 720
+GAME OVERstep:141, score: 700, best score: 720, loss: 15.463117599487305, reward:0
+epoch: 8 loss: 15.4631176 LR: [0.001] step: 142 score: 700 best_score: 720
+GAME OVERstep:100, score: 710, best score: 720, loss: 5.688714504241943, reward:00
+epoch: 9 loss: 5.6887145 LR: [0.001] step: 101 score: 710 best_score: 720
+average score last 10 games: 417.0
+GAME OVER,step:83, score: 240, best score: 720, loss: 13.618430137634277, reward:00
+epoch: 10 loss: 13.6184301 LR: [0.001] step: 84 score: 240 best_score: 720
+GAME OVER,step:68, score: 320, best score: 720, loss: 9.449312210083008, reward:000
+epoch: 11 loss: 9.4493122 LR: [0.001] step: 69 score: 320 best_score: 720
+GAME OVER,step:81, score: 70, best score: 720, loss: 4.986220836639404, reward:00
+epoch: 12 loss: 4.9862208 LR: [0.001] step: 82 score: 70 best_score: 720
+GAME OVER,step:105, score: 80, best score: 720, loss: 11.884125709533691, reward:0
+epoch: 13 loss: 11.8841257 LR: [0.001] step: 106 score: 80 best_score: 720
+GAME OVER,step:251, score: 500, best score: 720, loss: 10.514787673950195, reward:0
+epoch: 14 loss: 10.5147877 LR: [0.001] step: 252 score: 500 best_score: 720
+GAME OVER,step:81, score: 70, best score: 720, loss: 8.861255645751953, reward:00
+epoch: 15 loss: 8.8612556 LR: [0.001] step: 82 score: 70 best_score: 720
+GAME OVER,step:81, score: 70, best score: 720, loss: 24.330806732177734, reward:00
+epoch: 16 loss: 24.3308067 LR: [0.001] step: 82 score: 70 best_score: 720
+GAME OVER,step:82, score: 70, best score: 720, loss: 18.646656036376953, reward:00
+epoch: 17 loss: 18.6466560 LR: [0.001] step: 83 score: 70 best_score: 720
+GAME OVER,step:65, score: 180, best score: 720, loss: 12.09200382232666, reward:100
+epoch: 18 loss: 12.0920038 LR: [0.001] step: 66 score: 190 best_score: 720
+GAME OVER,step:83, score: 70, best score: 720, loss: 21.40443229675293, reward:000
+epoch: 19 loss: 21.4044323 LR: [0.001] step: 84 score: 70 best_score: 720
+average score last 10 games: 168.0
+GAME OVER,step:64, score: 120, best score: 720, loss: 21.98548698425293, reward:000
+epoch: 20 loss: 21.9854870 LR: [0.001] step: 65 score: 120 best_score: 720
+GAME OVER,step:24, score: 150, best score: 720, loss: 18.691104888916016, reward:10
+epoch: 21 loss: 18.6911049 LR: [0.001] step: 25 score: 150 best_score: 720
+GAME OVER,step:102, score: 90, best score: 720, loss: 28.0497989654541, reward:000
+epoch: 22 loss: 28.0497990 LR: [0.001] step: 103 score: 90 best_score: 720
+GAME OVER,step:69, score: 270, best score: 720, loss: 16.914186477661133, reward:00
+epoch: 23 loss: 16.9141865 LR: [0.001] step: 70 score: 270 best_score: 720
+GAME OVER,step:84, score: 120, best score: 720, loss: 19.193321228027344, reward:00
+epoch: 24 loss: 19.1933212 LR: [0.001] step: 85 score: 120 best_score: 720
+GAME OVER,step:101, score: 160, best score: 720, loss: 22.87164878845215, reward:00
+epoch: 25 loss: 22.8716488 LR: [0.001] step: 102 score: 160 best_score: 720
+GAME OVER,step:93, score: 110, best score: 720, loss: 25.475725173950195, reward:0
+epoch: 26 loss: 25.4757252 LR: [0.001] step: 94 score: 110 best_score: 720
+GAME OVER,step:104, score: 200, best score: 720, loss: 24.166135787963867, reward:0
+GAME OVER
+epoch: 27 loss: 24.1661358 LR: [0.001] step: 105 score: 200 best_score: 720
+epoch: 28,step:61, score: 170, best score: 720, loss: 38.505977630615234, reward:00

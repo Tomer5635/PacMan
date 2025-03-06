@@ -1,0 +1,7 @@
+GAME OVER
+epoch: 0 loss: -1.0000000 LR: [0.001] step: 94 score: 70 best_score: 70
+GAME OVERstep:102, score: 360, best score: 70, loss: 0.5136765241622925, reward:0
+epoch: 1 loss: 0.5136765 LR: [0.001] step: 103 score: 360 best_score: 360
+GAME OVERstep:96, score: 280, best score: 360, loss: 3.3632078170776367, reward:00
+epoch: 2 loss: 3.3632078 LR: [0.001] step: 97 score: 280 best_score: 360
+epoch: 3,step:282, score: 80, best score: 360, loss: 0.34177473187446594, reward:0

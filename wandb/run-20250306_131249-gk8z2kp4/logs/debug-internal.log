@@ -1,0 +1,7 @@
+{"time":"2025-03-06T13:12:49.5592407+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Talmid\\PacMan\\wandb\\run-20250306_131249-gk8z2kp4\\logs\\debug-core.log"}
+{"time":"2025-03-06T13:12:49.6992077+02:00","level":"INFO","msg":"created new stream","id":"gk8z2kp4"}
+{"time":"2025-03-06T13:12:49.701236+02:00","level":"INFO","msg":"stream: started","id":"gk8z2kp4"}
+{"time":"2025-03-06T13:12:49.7022474+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"gk8z2kp4"}
+{"time":"2025-03-06T13:12:49.7028862+02:00","level":"INFO","msg":"handler: started","stream_id":"gk8z2kp4"}
+{"time":"2025-03-06T13:12:49.7033965+02:00","level":"INFO","msg":"sender: started","stream_id":"gk8z2kp4"}
+{"time":"2025-03-06T13:12:50.4514817+02:00","level":"INFO","msg":"Starting system monitor"}

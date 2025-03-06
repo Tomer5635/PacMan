@@ -1,0 +1,11 @@
+GAME OVERstep:113, score: 40, best score: 0, loss: 7.2714314460754395, reward:0
+epoch: 0 loss: 7.2714314 LR: [0.001] step: 114 score: 40 best_score: 40
+GAME OVERstep:46, score: 330, best score: 40, loss: 8.573958396911621, reward:100
+epoch: 1 loss: 8.5739584 LR: [0.001] step: 47 score: 330 best_score: 330
+GAME OVERstep:113, score: 40, best score: 330, loss: 1.4664973020553589, reward:0
+epoch: 2 loss: 1.4664973 LR: [0.001] step: 114 score: 40 best_score: 330
+GAME OVERstep:113, score: 40, best score: 330, loss: 1.421924114227295, reward:00
+epoch: 3 loss: 1.4219241 LR: [0.001] step: 114 score: 40 best_score: 330
+epoch: 4 loss: 1.2069827 LR: [0.001] step: 97 score: 40 best_score: 330 reward:0
+epoch: 5 loss: 1.1475652 LR: [0.001] step: 4 score: 40 best_score: 330reward:100
+epoch: 6,step:7, score: 40, best score: 330, loss: 1.0335137844085693, reward:00

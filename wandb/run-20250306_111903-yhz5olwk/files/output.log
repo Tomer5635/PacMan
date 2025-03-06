@@ -1,0 +1,10 @@
+GAME OVERstep:113, score: 40, best score: 0, loss: 7.13599967956543, reward:0:0
+epoch: 0 loss: 7.1359997 LR: [0.001] step: 114 score: 40 best_score: 40
+Traceback (most recent call last):
+  File "c:\Users\Talmid\PacMan\Trainer.py", line 171, in <module>
+    if __name__ == "__main__":
+        ^^^^^^^
+  File "c:\Users\Talmid\PacMan\Trainer.py", line 164, in main
+    wandb.log(checkpoint)
+          ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'checkpoint' where it is not associated with a value

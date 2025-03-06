@@ -1,0 +1,22 @@
+2025-03-06 12:24:25,735 INFO    MainThread:952 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-06 12:24:25,736 INFO    MainThread:952 [wandb_setup.py:_flush():67] Configure stats pid to 952
+2025-03-06 12:24:25,736 INFO    MainThread:952 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Talmid\.config\wandb\settings
+2025-03-06 12:24:25,736 INFO    MainThread:952 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Talmid\PacMan\wandb\settings
+2025-03-06 12:24:25,736 INFO    MainThread:952 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-06 12:24:25,736 INFO    MainThread:952 [wandb_init.py:setup_run_log_directory():647] Logging user logs to C:\Users\Talmid\PacMan\wandb\run-20250306_122425-dhvvbvph\logs\debug.log
+2025-03-06 12:24:25,744 INFO    MainThread:952 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to C:\Users\Talmid\PacMan\wandb\run-20250306_122425-dhvvbvph\logs\debug-internal.log
+2025-03-06 12:24:25,744 INFO    MainThread:952 [wandb_init.py:init():761] calling init triggers
+2025-03-06 12:24:25,744 INFO    MainThread:952 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'architecture': 'DQN', 'dataset': 'PACMAN', 'epochs': 1000, 'batch_size': 500, 'gamma': 0.1, '_wandb': {}}
+2025-03-06 12:24:25,744 INFO    MainThread:952 [wandb_init.py:init():784] starting backend
+2025-03-06 12:24:25,744 INFO    MainThread:952 [wandb_init.py:init():788] sending inform_init request
+2025-03-06 12:24:25,850 INFO    MainThread:952 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-06 12:24:25,850 INFO    MainThread:952 [wandb_init.py:init():798] backend started and connected
+2025-03-06 12:24:25,851 INFO    MainThread:952 [wandb_init.py:init():891] updated telemetry
+2025-03-06 12:24:25,954 INFO    MainThread:952 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-06 12:24:26,429 INFO    MainThread:952 [wandb_init.py:init():990] starting run threads in backend
+2025-03-06 12:24:26,853 INFO    MainThread:952 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-06 12:24:26,854 INFO    MainThread:952 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-06 12:24:26,854 INFO    MainThread:952 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-06 12:24:26,854 INFO    MainThread:952 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-06 12:24:26,878 INFO    MainThread:952 [wandb_init.py:init():1032] run started, returning control to user process
