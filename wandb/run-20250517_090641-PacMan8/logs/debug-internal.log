@@ -1,0 +1,9 @@
+{"time":"2025-05-17T09:06:41.2842426+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"C:\\Users\\tomer\\OneDrive\\שולחן העבודה\\Machine Learning\\PacMan-1-1\\wandb\\run-20250517_090641-PacMan8\\logs\\debug-core.log"}
+{"time":"2025-05-17T09:06:42.1140853+03:00","level":"INFO","msg":"created new stream","id":"PacMan8"}
+{"time":"2025-05-17T09:06:42.1140853+03:00","level":"INFO","msg":"stream: started","id":"PacMan8"}
+{"time":"2025-05-17T09:06:42.1170857+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"PacMan8"}
+{"time":"2025-05-17T09:06:42.1170857+03:00","level":"INFO","msg":"handler: started","stream_id":"PacMan8"}
+{"time":"2025-05-17T09:06:42.1180858+03:00","level":"INFO","msg":"sender: started","stream_id":"PacMan8"}
+{"time":"2025-05-17T09:06:42.4033646+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-17T09:06:57.423929+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T09:07:12.4216603+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}

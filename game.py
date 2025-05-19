@@ -29,7 +29,10 @@ def main ():
             if event.type==pygame.MOUSEBUTTONDOWN and graphics.Graphics.home_screen(screen).get_rect(topleft=(195,400)).collidepoint(event.pos):
                 isGame=True
         
+        
+        
         if not isGame:
+            pygame.display.update()
             continue
 
         action = player.getAction(events=events, state=game.state(), epoch=100000)

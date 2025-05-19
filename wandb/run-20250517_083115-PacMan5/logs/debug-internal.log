@@ -1,0 +1,23 @@
+{"time":"2025-05-17T08:31:15.8984086+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"C:\\Users\\tomer\\OneDrive\\שולחן העבודה\\Machine Learning\\PacMan-1-1\\wandb\\run-20250517_083115-PacMan5\\logs\\debug-core.log"}
+{"time":"2025-05-17T08:31:16.2544949+03:00","level":"INFO","msg":"created new stream","id":"PacMan5"}
+{"time":"2025-05-17T08:31:16.2544949+03:00","level":"INFO","msg":"stream: started","id":"PacMan5"}
+{"time":"2025-05-17T08:31:16.2549744+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"PacMan5"}
+{"time":"2025-05-17T08:31:16.2564893+03:00","level":"INFO","msg":"handler: started","stream_id":"PacMan5"}
+{"time":"2025-05-17T08:31:16.2564893+03:00","level":"INFO","msg":"sender: started","stream_id":"PacMan5"}
+{"time":"2025-05-17T08:31:16.5436598+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-17T08:31:31.560842+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:31:46.5614765+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:32:01.560477+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:32:16.5628261+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:32:31.5636303+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:32:46.5623489+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:33:01.559945+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:33:16.5807543+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:33:31.5610926+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:33:46.5603043+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:34:01.5604784+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:34:16.5606869+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:34:31.560679+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:34:46.5660083+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:35:01.568375+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-05-17T08:35:16.579983+03:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}

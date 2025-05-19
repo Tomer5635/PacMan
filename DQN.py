@@ -21,7 +21,7 @@ gamma = 0.99
 # epsilon Greedy
 epsilon_start = 1
 epsilon_final = 0.01
-epsilon_decay = 100000
+epsilon_decay = 10
 
 MSELoss = nn.MSELoss()
 

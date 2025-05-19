@@ -1,0 +1,15 @@
+{"time":"2025-05-17T08:29:50.9751106+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"C:\\Users\\tomer\\OneDrive\\שולחן העבודה\\Machine Learning\\PacMan-1-1\\wandb\\run-20250517_082950-PacMan4\\logs\\debug-core.log"}
+{"time":"2025-05-17T08:29:51.3170409+03:00","level":"INFO","msg":"created new stream","id":"PacMan4"}
+{"time":"2025-05-17T08:29:51.3170409+03:00","level":"INFO","msg":"stream: started","id":"PacMan4"}
+{"time":"2025-05-17T08:29:51.3170409+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"PacMan4"}
+{"time":"2025-05-17T08:29:51.3170409+03:00","level":"INFO","msg":"handler: started","stream_id":"PacMan4"}
+{"time":"2025-05-17T08:29:51.3175785+03:00","level":"INFO","msg":"sender: started","stream_id":"PacMan4"}
+{"time":"2025-05-17T08:29:51.5204776+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-17T08:30:01.6869756+03:00","level":"INFO","msg":"stream: closing","id":"PacMan4"}
+{"time":"2025-05-17T08:30:01.6869756+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-17T08:30:01.6869756+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-17T08:30:02.440704+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-17T08:30:02.7417376+03:00","level":"INFO","msg":"handler: closed","stream_id":"PacMan4"}
+{"time":"2025-05-17T08:30:02.7417376+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"PacMan4"}
+{"time":"2025-05-17T08:30:02.7417376+03:00","level":"INFO","msg":"sender: closed","stream_id":"PacMan4"}
+{"time":"2025-05-17T08:30:02.7426768+03:00","level":"INFO","msg":"stream: closed","id":"PacMan4"}

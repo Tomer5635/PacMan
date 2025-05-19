@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\Trainer_cnn.py", line 200, in <module>
+    main (chkpt)
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\Trainer_cnn.py", line 131, in main
+    Q_values = player.get_Q_values(states_action)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\DQN_Agent_CNN.py", line 60, in get_Q_values
+    Q_values = self.DQN(state)
+               ^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\DQN_CNN.py", line 74, in __call__
+    return self.forward(state)
+           ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\DQN_CNN.py", line 53, in forward
+    x = F.relu(self.fc1(x))           # [B, 128]
+               ^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\nn\modules\linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (32x784 and 1296x64)

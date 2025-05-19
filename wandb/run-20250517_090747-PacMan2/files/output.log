@@ -1,0 +1,1101 @@
+GAME OVER
+chkpt:2 epoch: 0 loss: -1.0000000 LR: [0.001] step: 84 score: 260 best_score: 260
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 1 loss: 4.3116093 LR: [0.001] step: 85 score: 490 best_score: 490
+GAME OVER
+chkpt:2 epoch: 2 loss: 26.1541367 LR: [0.001] step: 143 score: 850 best_score: 850
+GAME OVER
+chkpt:2 epoch: 3 loss: 15.9297342 LR: [0.001] step: 87 score: 670 best_score: 850
+GAME OVER
+chkpt:2 epoch: 4 loss: 5.3637552 LR: [0.001] step: 103 score: 570 best_score: 850
+GAME OVER
+chkpt:2 epoch: 5 loss: 10.3318386 LR: [0.001] step: 77 score: 280 best_score: 850
+GAME OVER
+chkpt:2 epoch: 6 loss: 30.3215561 LR: [0.001] step: 93 score: 360 best_score: 850
+GAME OVER
+chkpt:2 epoch: 7 loss: 14.4216118 LR: [0.001] step: 178 score: 900 best_score: 900
+GAME OVER
+chkpt:2 epoch: 8 loss: 9.7172184 LR: [0.001] step: 78 score: 180 best_score: 900
+GAME OVER
+chkpt:2 epoch: 9 loss: 80.3182144 LR: [0.001] step: 91 score: 320 best_score: 900
+average score last 10 games: 488.0
+GAME OVER
+chkpt:2 epoch: 10 loss: 113.2513885 LR: [0.001] step: 113 score: 560 best_score: 900
+GAME OVER
+chkpt:2 epoch: 11 loss: 58.4773788 LR: [0.001] step: 35 score: 140 best_score: 900
+GAME OVER
+chkpt:2 epoch: 12 loss: 11.7720509 LR: [0.001] step: 65 score: 370 best_score: 900
+chkpt:2 epoch: 13 loss: 67.3822479 LR: [0.001] step: 201 score: 880 best_score: 900
+GAME OVER
+chkpt:2 epoch: 14 loss: 9.3771906 LR: [0.001] step: 95 score: 350 best_score: 900
+GAME OVER
+chkpt:2 epoch: 15 loss: 15.3247089 LR: [0.001] step: 63 score: 270 best_score: 900
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 16 loss: 34.1871338 LR: [0.001] step: 89 score: 530 best_score: 900
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 17 loss: 26.5901451 LR: [0.001] step: 89 score: 350 best_score: 900
+GAME OVER
+chkpt:2 epoch: 18 loss: 10.4302750 LR: [0.001] step: 21 score: 160 best_score: 900
+GAME OVER
+chkpt:2 epoch: 19 loss: 23.3134155 LR: [0.001] step: 62 score: 320 best_score: 900
+average score last 10 games: 393.0
+GAME OVER
+chkpt:2 epoch: 20 loss: 18.1727467 LR: [0.001] step: 97 score: 340 best_score: 900
+chkpt:2 epoch: 21 loss: 22.4285316 LR: [0.001] step: 201 score: 1050 best_score: 1050
+GAME OVER
+chkpt:2 epoch: 22 loss: 31.5431156 LR: [0.001] step: 73 score: 520 best_score: 1050
+GAME OVER
+chkpt:2 epoch: 23 loss: 39.7197266 LR: [0.001] step: 88 score: 290 best_score: 1050
+GAME OVER
+chkpt:2 epoch: 24 loss: 22.0137596 LR: [0.001] step: 82 score: 350 best_score: 1050
+GAME OVER
+chkpt:2 epoch: 25 loss: 22.6277027 LR: [0.001] step: 187 score: 1470 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 26 loss: 20.1984386 LR: [0.001] step: 99 score: 340 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 27 loss: 32.3017960 LR: [0.001] step: 145 score: 540 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 28 loss: 29.8121758 LR: [0.001] step: 110 score: 590 best_score: 1470
+chkpt:2 epoch: 29 loss: 44.9108696 LR: [0.001] step: 201 score: 960 best_score: 1470
+average score last 10 games: 645.0
+GAME OVER
+chkpt:2 epoch: 30 loss: 21.3537102 LR: [0.001] step: 167 score: 590 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 31 loss: 29.9986877 LR: [0.001] step: 201 score: 690 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 32 loss: 14.7945929 LR: [0.001] step: 94 score: 420 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 33 loss: 26.6838570 LR: [0.001] step: 72 score: 350 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 34 loss: 41.4717522 LR: [0.001] step: 87 score: 370 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 35 loss: 18.1610126 LR: [0.001] step: 146 score: 480 best_score: 1470
+chkpt:2 epoch: 36 loss: 22.1046581 LR: [0.001] step: 201 score: 1100 best_score: 1470
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 37 loss: 30.4777908 LR: [0.001] step: 141 score: 690 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 38 loss: 17.7864075 LR: [0.001] step: 151 score: 670 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 39 loss: 21.3246193 LR: [0.001] step: 110 score: 300 best_score: 1470
+average score last 10 games: 566.0
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 40 loss: 35.0629730 LR: [0.001] step: 73 score: 210 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 41 loss: 39.3743057 LR: [0.001] step: 69 score: 600 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 42 loss: 51.9600525 LR: [0.001] step: 121 score: 540 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 43 loss: 42.1340981 LR: [0.001] step: 113 score: 470 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 44 loss: 21.0157051 LR: [0.001] step: 38 score: 170 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 45 loss: 23.5060234 LR: [0.001] step: 165 score: 960 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 46 loss: 27.1122780 LR: [0.001] step: 77 score: 360 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 47 loss: 64.7336731 LR: [0.001] step: 108 score: 550 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 48 loss: 29.0363293 LR: [0.001] step: 80 score: 490 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 49 loss: 25.3852749 LR: [0.001] step: 90 score: 390 best_score: 1470
+average score last 10 games: 474.0
+GAME OVER
+chkpt:2 epoch: 50 loss: 45.4625282 LR: [0.001] step: 88 score: 530 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 51 loss: 33.4921608 LR: [0.001] step: 87 score: 430 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 52 loss: 28.7637081 LR: [0.001] step: 163 score: 620 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 53 loss: 17.5713825 LR: [0.001] step: 86 score: 500 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 54 loss: 45.9087677 LR: [0.001] step: 136 score: 930 best_score: 1470
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 55 loss: 28.0044441 LR: [0.001] step: 81 score: 390 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 56 loss: 69.9750519 LR: [0.001] step: 190 score: 720 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 57 loss: 85.9823685 LR: [0.001] step: 159 score: 840 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 58 loss: 36.0475883 LR: [0.001] step: 115 score: 380 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 59 loss: 41.7423325 LR: [0.001] step: 123 score: 490 best_score: 1470
+average score last 10 games: 583.0
+GAME OVER
+chkpt:2 epoch: 60 loss: 23.2939949 LR: [0.001] step: 103 score: 420 best_score: 1470
+chkpt:2 epoch: 61 loss: 39.8102646 LR: [0.001] step: 201 score: 1300 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 62 loss: 40.7028580 LR: [0.001] step: 137 score: 900 best_score: 1470
+chkpt:2 epoch: 63 loss: 51.4462013 LR: [0.001] step: 201 score: 850 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 64 loss: 29.6767960 LR: [0.001] step: 161 score: 930 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 65 loss: 25.9581070 LR: [0.001] step: 130 score: 1180 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 66 loss: 39.4224930 LR: [0.001] step: 80 score: 370 best_score: 1470
+chkpt:2 epoch: 67 loss: 49.5501747 LR: [0.001] step: 201 score: 1240 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 68 loss: 37.3908958 LR: [0.001] step: 146 score: 1130 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 69 loss: 30.9595032 LR: [0.001] step: 83 score: 480 best_score: 1470
+average score last 10 games: 880.0
+GAME OVER
+chkpt:2 epoch: 70 loss: 27.9982338 LR: [0.001] step: 151 score: 790 best_score: 1470
+chkpt:2 epoch: 71 loss: 25.1336746 LR: [0.001] step: 201 score: 980 best_score: 1470
+GAME OVER
+chkpt:2 epoch: 72 loss: 34.6824188 LR: [0.001] step: 79 score: 390 best_score: 1470
+chkpt:2 epoch: 73 loss: 20.5676651 LR: [0.001] step: 201 score: 1700 best_score: 1700
+chkpt:2 epoch: 74 loss: 31.3305092 LR: [0.001] step: 201 score: 1670 best_score: 1700
+chkpt:2 epoch: 75 loss: 35.2376251 LR: [0.001] step: 201 score: 1370 best_score: 1700
+GAME OVER
+chkpt:2 epoch: 76 loss: 42.2000008 LR: [0.001] step: 70 score: 340 best_score: 1700
+GAME OVER
+chkpt:2 epoch: 77 loss: 27.4432392 LR: [0.001] step: 90 score: 780 best_score: 1700
+chkpt:2 epoch: 78 loss: 36.7945557 LR: [0.001] step: 201 score: 1720 best_score: 1720
+GAME OVER
+chkpt:2 epoch: 79 loss: 41.9470062 LR: [0.001] step: 71 score: 430 best_score: 1720
+average score last 10 games: 1017.0
+GAME OVER
+chkpt:2 epoch: 80 loss: 31.1754608 LR: [0.001] step: 134 score: 830 best_score: 1720
+GAME OVER
+chkpt:2 epoch: 81 loss: 33.0705643 LR: [0.001] step: 146 score: 980 best_score: 1720
+GAME OVER
+chkpt:2 epoch: 82 loss: 27.3325844 LR: [0.001] step: 55 score: 440 best_score: 1720
+GAME OVER
+chkpt:2 epoch: 83 loss: 35.2646866 LR: [0.001] step: 115 score: 690 best_score: 1720
+chkpt:2 epoch: 84 loss: 62.3883629 LR: [0.001] step: 201 score: 1450 best_score: 1720
+GAME OVER
+chkpt:2 epoch: 85 loss: 30.0975780 LR: [0.001] step: 86 score: 350 best_score: 1720
+chkpt:2 epoch: 86 loss: 41.0331345 LR: [0.001] step: 201 score: 1010 best_score: 1720
+GAME OVER
+chkpt:2 epoch: 87 loss: 27.7035618 LR: [0.001] step: 90 score: 950 best_score: 1720
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 88 loss: 64.1702271 LR: [0.001] step: 81 score: 440 best_score: 1720
+GAME OVER
+chkpt:2 epoch: 89 loss: 45.5925865 LR: [0.001] step: 35 score: 250 best_score: 1720
+average score last 10 games: 739.0
+GAME OVER
+chkpt:2 epoch: 90 loss: 42.0542526 LR: [0.001] step: 20 score: 190 best_score: 1720
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 91 loss: 50.0414352 LR: [0.001] step: 133 score: 590 best_score: 1720
+GAME OVER
+chkpt:2 epoch: 92 loss: 42.3144684 LR: [0.001] step: 21 score: 190 best_score: 1720
+chkpt:2 epoch: 93 loss: 49.9252777 LR: [0.001] step: 201 score: 1920 best_score: 1920
+chkpt:2 epoch: 94 loss: 26.5711975 LR: [0.001] step: 201 score: 890 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 95 loss: 74.1664047 LR: [0.001] step: 99 score: 420 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 96 loss: 37.3977890 LR: [0.001] step: 146 score: 770 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 97 loss: 39.0544968 LR: [0.001] step: 151 score: 1140 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 98 loss: 28.9797497 LR: [0.001] step: 14 score: 140 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 99 loss: 34.4788399 LR: [0.001] step: 142 score: 710 best_score: 1920
+average score last 10 games: 696.0
+GAME OVER
+chkpt:2 epoch: 100 loss: 40.8086700 LR: [0.001] step: 91 score: 470 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 101 loss: 32.7569122 LR: [0.001] step: 85 score: 990 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 102 loss: 71.1163254 LR: [0.001] step: 191 score: 600 best_score: 1920
+chkpt:2 epoch: 103 loss: 35.0087967 LR: [0.001] step: 201 score: 1770 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 104 loss: 38.5239372 LR: [0.001] step: 192 score: 1200 best_score: 1920
+chkpt:2 epoch: 105 loss: 41.3277512 LR: [0.001] step: 201 score: 1460 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 106 loss: 24.7919044 LR: [0.001] step: 132 score: 370 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 107 loss: 26.0609131 LR: [0.001] step: 154 score: 750 best_score: 1920
+chkpt:2 epoch: 108 loss: 84.6024475 LR: [0.001] step: 201 score: 1580 best_score: 1920
+chkpt:2 epoch: 109 loss: 23.4999256 LR: [0.001] step: 201 score: 1150 best_score: 1920
+average score last 10 games: 1034.0
+chkpt:2 epoch: 110 loss: 70.1097107 LR: [0.001] step: 201 score: 1060 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 111 loss: 41.9863892 LR: [0.001] step: 173 score: 1380 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 112 loss: 58.7379417 LR: [0.001] step: 63 score: 300 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 113 loss: 32.5541458 LR: [0.001] step: 119 score: 970 best_score: 1920
+GAME OVER
+chkpt:2 epoch: 114 loss: 35.4907036 LR: [0.001] step: 177 score: 1030 best_score: 1920
+chkpt:2 epoch: 115 loss: 42.6776695 LR: [0.001] step: 201 score: 2120 best_score: 2120
+chkpt:2 epoch: 116 loss: 56.2381096 LR: [0.001] step: 201 score: 1430 best_score: 2120
+chkpt:2 epoch: 117 loss: 60.1367569 LR: [0.001] step: 201 score: 1100 best_score: 2120
+GAME OVER
+chkpt:2 epoch: 118 loss: 44.7396469 LR: [0.001] step: 175 score: 1730 best_score: 2120
+GAME OVER
+chkpt:2 epoch: 119 loss: 26.6654358 LR: [0.001] step: 175 score: 1270 best_score: 2120
+average score last 10 games: 1239.0
+chkpt:2 epoch: 120 loss: 30.7136688 LR: [0.001] step: 201 score: 820 best_score: 2120
+GAME OVER
+chkpt:2 epoch: 121 loss: 36.3202362 LR: [0.001] step: 109 score: 570 best_score: 2120
+chkpt:2 epoch: 122 loss: 31.0009537 LR: [0.001] step: 201 score: 1320 best_score: 2120
+chkpt:2 epoch: 123 loss: 17.0704556 LR: [0.001] step: 201 score: 1230 best_score: 2120
+chkpt:2 epoch: 124 loss: 33.4870605 LR: [0.001] step: 201 score: 1560 best_score: 2120
+GAME OVER
+chkpt:2 epoch: 125 loss: 46.0451088 LR: [0.001] step: 185 score: 800 best_score: 2120
+GAME OVER
+chkpt:2 epoch: 126 loss: 52.4500961 LR: [0.001] step: 183 score: 1190 best_score: 2120
+chkpt:2 epoch: 127 loss: 38.9020004 LR: [0.001] step: 201 score: 2190 best_score: 2190
+chkpt:2 epoch: 128 loss: 34.1351357 LR: [0.001] step: 201 score: 1090 best_score: 2190
+chkpt:2 epoch: 129 loss: 33.2975426 LR: [0.001] step: 201 score: 1210 best_score: 2190
+average score last 10 games: 1198.0
+chkpt:2 epoch: 130 loss: 71.8142853 LR: [0.001] step: 201 score: 1260 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 131 loss: 22.2630615 LR: [0.001] step: 135 score: 1420 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 132 loss: 51.2633247 LR: [0.001] step: 97 score: 660 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 133 loss: 37.3857307 LR: [0.001] step: 191 score: 1580 best_score: 2190
+chkpt:2 epoch: 134 loss: 49.5515900 LR: [0.001] step: 201 score: 1770 best_score: 2190
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 135 loss: 28.6952438 LR: [0.001] step: 161 score: 890 best_score: 2190
+chkpt:2 epoch: 136 loss: 47.1387138 LR: [0.001] step: 201 score: 990 best_score: 2190
+chkpt:2 epoch: 137 loss: 25.8683205 LR: [0.001] step: 201 score: 1130 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 138 loss: 38.1705933 LR: [0.001] step: 198 score: 890 best_score: 2190
+chkpt:2 epoch: 139 loss: 67.9230270 LR: [0.001] step: 201 score: 1880 best_score: 2190
+average score last 10 games: 1247.0
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 140 loss: 22.7048683 LR: [0.001] step: 149 score: 530 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 141 loss: 29.1840782 LR: [0.001] step: 25 score: 120 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 142 loss: 19.1007843 LR: [0.001] step: 135 score: 1040 best_score: 2190
+chkpt:2 epoch: 143 loss: 48.4104996 LR: [0.001] step: 201 score: 1570 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 144 loss: 63.6564484 LR: [0.001] step: 195 score: 1300 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 145 loss: 55.1536026 LR: [0.001] step: 187 score: 1240 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 146 loss: 43.7817001 LR: [0.001] step: 87 score: 540 best_score: 2190
+chkpt:2 epoch: 147 loss: 32.2467422 LR: [0.001] step: 201 score: 2100 best_score: 2190
+chkpt:2 epoch: 148 loss: 28.3953094 LR: [0.001] step: 201 score: 1450 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 149 loss: 48.4171295 LR: [0.001] step: 154 score: 830 best_score: 2190
+average score last 10 games: 1072.0
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 150 loss: 34.9326820 LR: [0.001] step: 193 score: 1950 best_score: 2190
+chkpt:2 epoch: 151 loss: 25.1036720 LR: [0.001] step: 201 score: 1400 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 152 loss: 78.1964645 LR: [0.001] step: 131 score: 700 best_score: 2190
+chkpt:2 epoch: 153 loss: 16.9653835 LR: [0.001] step: 201 score: 1570 best_score: 2190
+chkpt:2 epoch: 154 loss: 91.0382233 LR: [0.001] step: 201 score: 1550 best_score: 2190
+chkpt:2 epoch: 155 loss: 23.3267994 LR: [0.001] step: 201 score: 1500 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 156 loss: 60.1922379 LR: [0.001] step: 23 score: 200 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 157 loss: 33.9761696 LR: [0.001] step: 55 score: 600 best_score: 2190
+chkpt:2 epoch: 158 loss: 62.4204826 LR: [0.001] step: 201 score: 1240 best_score: 2190
+chkpt:2 epoch: 159 loss: 29.7348118 LR: [0.001] step: 201 score: 1190 best_score: 2190
+average score last 10 games: 1190.0
+GAME OVER
+chkpt:2 epoch: 160 loss: 30.6567078 LR: [0.001] step: 195 score: 1050 best_score: 2190
+chkpt:2 epoch: 161 loss: 28.8422794 LR: [0.001] step: 201 score: 1840 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 162 loss: 20.8175316 LR: [0.001] step: 21 score: 190 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 163 loss: 21.5096149 LR: [0.001] step: 179 score: 1750 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 164 loss: 13.4155140 LR: [0.001] step: 113 score: 900 best_score: 2190
+GAME OVER
+chkpt:2 epoch: 165 loss: 34.3046532 LR: [0.001] step: 85 score: 680 best_score: 2190
+chkpt:2 epoch: 166 loss: 29.5450439 LR: [0.001] step: 201 score: 2210 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 167 loss: 36.0249710 LR: [0.001] step: 193 score: 1440 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 168 loss: 24.5960941 LR: [0.001] step: 164 score: 1280 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 169 loss: 73.8246536 LR: [0.001] step: 195 score: 1290 best_score: 2210
+average score last 10 games: 1263.0
+GAME OVER
+chkpt:2 epoch: 170 loss: 36.9062271 LR: [0.001] step: 158 score: 1100 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 171 loss: 26.2861004 LR: [0.001] step: 145 score: 1270 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 172 loss: 32.2490883 LR: [0.001] step: 147 score: 970 best_score: 2210
+chkpt:2 epoch: 173 loss: 56.4881668 LR: [0.001] step: 201 score: 2090 best_score: 2210
+chkpt:2 epoch: 174 loss: 46.3196335 LR: [0.001] step: 201 score: 1790 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 175 loss: 42.1291008 LR: [0.001] step: 154 score: 1460 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 176 loss: 15.9707766 LR: [0.001] step: 185 score: 1170 best_score: 2210
+chkpt:2 epoch: 177 loss: 22.5491505 LR: [0.001] step: 201 score: 2200 best_score: 2210
+chkpt:2 epoch: 178 loss: 29.1114655 LR: [0.001] step: 201 score: 1760 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 179 loss: 41.3535767 LR: [0.001] step: 196 score: 1140 best_score: 2210
+average score last 10 games: 1495.0
+GAME OVER
+chkpt:2 epoch: 180 loss: 65.7529373 LR: [0.001] step: 29 score: 240 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 181 loss: 39.6808777 LR: [0.001] step: 168 score: 1390 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 182 loss: 91.0098114 LR: [0.001] step: 133 score: 1040 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 183 loss: 20.1678371 LR: [0.001] step: 47 score: 240 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 184 loss: 30.7078934 LR: [0.001] step: 163 score: 1330 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 185 loss: 67.0960922 LR: [0.001] step: 88 score: 530 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 186 loss: 29.3325520 LR: [0.001] step: 67 score: 500 best_score: 2210
+chkpt:2 epoch: 187 loss: 33.3956795 LR: [0.001] step: 201 score: 1230 best_score: 2210
+GAME OVER
+chkpt:2 epoch: 188 loss: 30.6891575 LR: [0.001] step: 77 score: 650 best_score: 2210
+chkpt:2 epoch: 189 loss: 33.0133972 LR: [0.001] step: 201 score: 1590 best_score: 2210
+average score last 10 games: 874.0
+chkpt:2 epoch: 190 loss: 22.3826237 LR: [0.001] step: 201 score: 1930 best_score: 2210
+chkpt:2 epoch: 191 loss: 30.3788052 LR: [0.001] step: 201 score: 2600 best_score: 2600
+chkpt:2 epoch: 192 loss: 37.7957764 LR: [0.001] step: 201 score: 1580 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 193 loss: 23.6647911 LR: [0.001] step: 195 score: 2430 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 194 loss: 20.1380329 LR: [0.001] step: 166 score: 840 best_score: 2600
+chkpt:2 epoch: 195 loss: 28.5050392 LR: [0.001] step: 201 score: 1710 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 196 loss: 54.4742699 LR: [0.001] step: 201 score: 1640 best_score: 2600
+chkpt:2 epoch: 197 loss: 42.8125572 LR: [0.001] step: 201 score: 1850 best_score: 2600
+chkpt:2 epoch: 198 loss: 24.9515724 LR: [0.001] step: 201 score: 1700 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 199 loss: 35.8321152 LR: [0.001] step: 166 score: 1800 best_score: 2600
+average score last 10 games: 1808.0
+GAME OVER
+chkpt:2 epoch: 200 loss: 16.5881767 LR: [0.001] step: 195 score: 1360 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 201 loss: 38.8671341 LR: [0.001] step: 179 score: 1590 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 202 loss: 40.1956100 LR: [0.001] step: 177 score: 1600 best_score: 2600
+chkpt:2 epoch: 203 loss: 32.5280533 LR: [0.001] step: 201 score: 2340 best_score: 2600
+chkpt:2 epoch: 204 loss: 14.3140821 LR: [0.001] step: 201 score: 1720 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 205 loss: 15.5342188 LR: [0.001] step: 144 score: 1090 best_score: 2600
+chkpt:2 epoch: 206 loss: 51.9375877 LR: [0.001] step: 201 score: 1810 best_score: 2600
+chkpt:2 epoch: 207 loss: 38.1663361 LR: [0.001] step: 201 score: 1540 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 208 loss: 15.1257334 LR: [0.001] step: 122 score: 1080 best_score: 2600
+chkpt:2 epoch: 209 loss: 37.8097916 LR: [0.001] step: 201 score: 1560 best_score: 2600
+average score last 10 games: 1569.0
+chkpt:2 epoch: 210 loss: 30.4850807 LR: [0.001] step: 201 score: 1690 best_score: 2600
+chkpt:2 epoch: 211 loss: 25.9687405 LR: [0.001] step: 201 score: 1360 best_score: 2600
+chkpt:2 epoch: 212 loss: 80.7758560 LR: [0.001] step: 201 score: 2050 best_score: 2600
+chkpt:2 epoch: 213 loss: 46.1198120 LR: [0.001] step: 201 score: 1950 best_score: 2600
+chkpt:2 epoch: 214 loss: 21.1293278 LR: [0.001] step: 201 score: 1790 best_score: 2600
+chkpt:2 epoch: 215 loss: 21.1589146 LR: [0.001] step: 201 score: 1680 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 216 loss: 25.2316990 LR: [0.001] step: 145 score: 1260 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 217 loss: 24.9414501 LR: [0.001] step: 83 score: 1420 best_score: 2600
+chkpt:2 epoch: 218 loss: 45.2958870 LR: [0.001] step: 201 score: 1440 best_score: 2600
+chkpt:2 epoch: 219 loss: 46.9003716 LR: [0.001] step: 201 score: 1430 best_score: 2600
+average score last 10 games: 1607.0
+chkpt:2 epoch: 220 loss: 95.0264816 LR: [0.001] step: 201 score: 2080 best_score: 2600
+chkpt:2 epoch: 221 loss: 68.8024902 LR: [0.001] step: 201 score: 1720 best_score: 2600
+chkpt:2 epoch: 222 loss: 55.0296822 LR: [0.001] step: 201 score: 1870 best_score: 2600
+chkpt:2 epoch: 223 loss: 30.2395287 LR: [0.001] step: 201 score: 1580 best_score: 2600
+chkpt:2 epoch: 224 loss: 48.7520180 LR: [0.001] step: 201 score: 1620 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 225 loss: 32.9044609 LR: [0.001] step: 183 score: 1390 best_score: 2600
+chkpt:2 epoch: 226 loss: 23.0572701 LR: [0.001] step: 201 score: 1940 best_score: 2600
+chkpt:2 epoch: 227 loss: 31.5236053 LR: [0.001] step: 201 score: 1570 best_score: 2600
+chkpt:2 epoch: 228 loss: 18.7976837 LR: [0.001] step: 201 score: 1910 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 229 loss: 32.0938110 LR: [0.001] step: 30 score: 120 best_score: 2600
+average score last 10 games: 1580.0
+chkpt:2 epoch: 230 loss: 20.5781803 LR: [0.001] step: 201 score: 1720 best_score: 2600
+chkpt:2 epoch: 231 loss: 64.6066589 LR: [0.001] step: 201 score: 1990 best_score: 2600
+chkpt:2 epoch: 232 loss: 33.5445900 LR: [0.001] step: 201 score: 1890 best_score: 2600
+chkpt:2 epoch: 233 loss: 25.4858227 LR: [0.001] step: 201 score: 1710 best_score: 2600
+chkpt:2 epoch: 234 loss: 24.5525169 LR: [0.001] step: 201 score: 2350 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 235 loss: 45.2541199 LR: [0.001] step: 186 score: 2030 best_score: 2600
+chkpt:2 epoch: 236 loss: 40.6760979 LR: [0.001] step: 201 score: 1880 best_score: 2600
+chkpt:2 epoch: 237 loss: 62.1937714 LR: [0.001] step: 201 score: 1790 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 238 loss: 46.9507599 LR: [0.001] step: 196 score: 1650 best_score: 2600
+chkpt:2 epoch: 239 loss: 29.0265121 LR: [0.001] step: 201 score: 2000 best_score: 2600
+average score last 10 games: 1901.0
+chkpt:2 epoch: 240 loss: 22.9715881 LR: [0.001] step: 201 score: 1430 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 241 loss: 29.2548370 LR: [0.001] step: 155 score: 910 best_score: 2600
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 242 loss: 37.4625244 LR: [0.001] step: 173 score: 1730 best_score: 2600
+chkpt:2 epoch: 243 loss: 16.2534409 LR: [0.001] step: 201 score: 1550 best_score: 2600
+chkpt:2 epoch: 244 loss: 32.3927994 LR: [0.001] step: 201 score: 1220 best_score: 2600
+chkpt:2 epoch: 245 loss: 35.3751450 LR: [0.001] step: 201 score: 1440 best_score: 2600
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 246 loss: 44.0489235 LR: [0.001] step: 157 score: 1560 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 247 loss: 23.8726311 LR: [0.001] step: 148 score: 1120 best_score: 2600
+chkpt:2 epoch: 248 loss: 29.5622463 LR: [0.001] step: 201 score: 1470 best_score: 2600
+chkpt:2 epoch: 249 loss: 25.7315407 LR: [0.001] step: 201 score: 1570 best_score: 2600
+average score last 10 games: 1400.0
+chkpt:2 epoch: 250 loss: 40.9793167 LR: [0.001] step: 201 score: 790 best_score: 2600
+chkpt:2 epoch: 251 loss: 19.6531639 LR: [0.001] step: 201 score: 1810 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 252 loss: 56.8898582 LR: [0.001] step: 21 score: 190 best_score: 2600
+chkpt:2 epoch: 253 loss: 20.5297489 LR: [0.001] step: 201 score: 2570 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 254 loss: 19.1194839 LR: [0.001] step: 21 score: 200 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 255 loss: 20.7567463 LR: [0.001] step: 180 score: 2220 best_score: 2600
+chkpt:2 epoch: 256 loss: 31.8685875 LR: [0.001] step: 201 score: 2230 best_score: 2600
+chkpt:2 epoch: 257 loss: 32.8272247 LR: [0.001] step: 201 score: 1370 best_score: 2600
+chkpt:2 epoch: 258 loss: 30.1152592 LR: [0.001] step: 201 score: 1550 best_score: 2600
+chkpt:2 epoch: 259 loss: 25.4820805 LR: [0.001] step: 201 score: 1240 best_score: 2600
+average score last 10 games: 1417.0
+GAME OVER
+chkpt:2 epoch: 260 loss: 60.7259026 LR: [0.001] step: 167 score: 1320 best_score: 2600
+chkpt:2 epoch: 261 loss: 39.9965973 LR: [0.001] step: 201 score: 2500 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 262 loss: 29.1088028 LR: [0.001] step: 193 score: 1720 best_score: 2600
+chkpt:2 epoch: 263 loss: 47.2206497 LR: [0.001] step: 201 score: 1960 best_score: 2600
+chkpt:2 epoch: 264 loss: 51.4906158 LR: [0.001] step: 201 score: 2060 best_score: 2600
+chkpt:2 epoch: 265 loss: 14.6897888 LR: [0.001] step: 201 score: 1910 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 266 loss: 26.5690613 LR: [0.001] step: 173 score: 1760 best_score: 2600
+chkpt:2 epoch: 267 loss: 51.5954552 LR: [0.001] step: 201 score: 1950 best_score: 2600
+chkpt:2 epoch: 268 loss: 36.4268951 LR: [0.001] step: 201 score: 1770 best_score: 2600
+chkpt:2 epoch: 269 loss: 90.3410950 LR: [0.001] step: 201 score: 2410 best_score: 2600
+average score last 10 games: 1936.0
+chkpt:2 epoch: 270 loss: 31.4951000 LR: [0.001] step: 201 score: 1220 best_score: 2600
+chkpt:2 epoch: 271 loss: 16.9359646 LR: [0.001] step: 201 score: 1770 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 272 loss: 71.7683334 LR: [0.001] step: 132 score: 1440 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 273 loss: 57.1799164 LR: [0.001] step: 170 score: 1450 best_score: 2600
+GAME OVER
+chkpt:2 epoch: 274 loss: 20.5177689 LR: [0.001] step: 155 score: 790 best_score: 2600
+chkpt:2 epoch: 275 loss: 34.7500954 LR: [0.001] step: 201 score: 2020 best_score: 2600
+chkpt:2 epoch: 276 loss: 41.0550880 LR: [0.001] step: 201 score: 1910 best_score: 2600
+chkpt:2 epoch: 277 loss: 29.7229233 LR: [0.001] step: 201 score: 2120 best_score: 2600
+chkpt:2 epoch: 278 loss: 20.2963448 LR: [0.001] step: 201 score: 1200 best_score: 2600
+chkpt:2 epoch: 279 loss: 36.5077820 LR: [0.001] step: 201 score: 2620 best_score: 2620
+average score last 10 games: 1654.0
+chkpt:2 epoch: 280 loss: 28.3411198 LR: [0.001] step: 201 score: 1400 best_score: 2620
+chkpt:2 epoch: 281 loss: 47.7766762 LR: [0.001] step: 201 score: 2150 best_score: 2620
+chkpt:2 epoch: 282 loss: 24.2430420 LR: [0.001] step: 201 score: 1820 best_score: 2620
+chkpt:2 epoch: 283 loss: 26.3850079 LR: [0.001] step: 201 score: 1600 best_score: 2620
+chkpt:2 epoch: 284 loss: 23.7696285 LR: [0.001] step: 201 score: 2280 best_score: 2620
+chkpt:2 epoch: 285 loss: 24.1837578 LR: [0.001] step: 201 score: 1600 best_score: 2620
+chkpt:2 epoch: 286 loss: 32.6158180 LR: [0.001] step: 201 score: 2270 best_score: 2620
+chkpt:2 epoch: 287 loss: 28.3304424 LR: [0.001] step: 201 score: 1730 best_score: 2620
+chkpt:2 epoch: 288 loss: 24.0630970 LR: [0.001] step: 201 score: 1800 best_score: 2620
+GAME OVER
+chkpt:2 epoch: 289 loss: 27.6492825 LR: [0.001] step: 138 score: 1550 best_score: 2620
+average score last 10 games: 1820.0
+GAME OVER
+chkpt:2 epoch: 290 loss: 20.6971741 LR: [0.001] step: 125 score: 1160 best_score: 2620
+chkpt:2 epoch: 291 loss: 34.0019722 LR: [0.001] step: 201 score: 2270 best_score: 2620
+chkpt:2 epoch: 292 loss: 18.7850456 LR: [0.001] step: 201 score: 1860 best_score: 2620
+chkpt:2 epoch: 293 loss: 16.3060589 LR: [0.001] step: 201 score: 1380 best_score: 2620
+chkpt:2 epoch: 294 loss: 15.5518570 LR: [0.001] step: 201 score: 2140 best_score: 2620
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 295 loss: 29.0951157 LR: [0.001] step: 133 score: 940 best_score: 2620
+chkpt:2 epoch: 296 loss: 24.2696285 LR: [0.001] step: 201 score: 1590 best_score: 2620
+chkpt:2 epoch: 297 loss: 36.8622551 LR: [0.001] step: 201 score: 1850 best_score: 2620
+chkpt:2 epoch: 298 loss: 15.5568161 LR: [0.001] step: 201 score: 2040 best_score: 2620
+chkpt:2 epoch: 299 loss: 34.8498192 LR: [0.001] step: 201 score: 2340 best_score: 2620
+average score last 10 games: 1757.0
+chkpt:2 epoch: 300 loss: 31.3069592 LR: [0.001] step: 201 score: 2050 best_score: 2620
+chkpt:2 epoch: 301 loss: 50.7607193 LR: [0.001] step: 201 score: 2680 best_score: 2680
+chkpt:2 epoch: 302 loss: 27.2651520 LR: [0.001] step: 201 score: 1900 best_score: 2680
+chkpt:2 epoch: 303 loss: 34.0965042 LR: [0.001] step: 201 score: 2270 best_score: 2680
+chkpt:2 epoch: 304 loss: 24.6231480 LR: [0.001] step: 201 score: 2090 best_score: 2680
+GAME OVER
+chkpt:2 epoch: 305 loss: 22.0432262 LR: [0.001] step: 183 score: 1520 best_score: 2680
+chkpt:2 epoch: 306 loss: 29.8551559 LR: [0.001] step: 201 score: 1600 best_score: 2680
+chkpt:2 epoch: 307 loss: 42.1727715 LR: [0.001] step: 201 score: 2000 best_score: 2680
+GAME OVER
+chkpt:2 epoch: 308 loss: 52.0695190 LR: [0.001] step: 190 score: 1930 best_score: 2680
+chkpt:2 epoch: 309 loss: 26.9779987 LR: [0.001] step: 201 score: 1850 best_score: 2680
+average score last 10 games: 1989.0
+GAME OVER
+chkpt:2 epoch: 310 loss: 44.6463470 LR: [0.001] step: 151 score: 1550 best_score: 2680
+chkpt:2 epoch: 311 loss: 26.1550331 LR: [0.001] step: 201 score: 2180 best_score: 2680
+chkpt:2 epoch: 312 loss: 9.7512569 LR: [0.001] step: 201 score: 2020 best_score: 2680
+chkpt:2 epoch: 313 loss: 63.0260048 LR: [0.001] step: 201 score: 2070 best_score: 2680
+chkpt:2 epoch: 314 loss: 24.0213413 LR: [0.001] step: 201 score: 1780 best_score: 2680
+chkpt:2 epoch: 315 loss: 15.4686775 LR: [0.001] step: 201 score: 2130 best_score: 2680
+chkpt:2 epoch: 316 loss: 20.9867687 LR: [0.001] step: 201 score: 2260 best_score: 2680
+chkpt:2 epoch: 317 loss: 15.9091969 LR: [0.001] step: 201 score: 2220 best_score: 2680
+chkpt:2 epoch: 318 loss: 18.0985260 LR: [0.001] step: 201 score: 2210 best_score: 2680
+GAME OVER
+chkpt:2 epoch: 319 loss: 32.1154976 LR: [0.001] step: 142 score: 1140 best_score: 2680
+average score last 10 games: 1956.0
+chkpt:2 epoch: 320 loss: 45.3556519 LR: [0.001] step: 201 score: 2410 best_score: 2680
+chkpt:2 epoch: 321 loss: 6.5586796 LR: [0.001] step: 201 score: 2070 best_score: 2680
+chkpt:2 epoch: 322 loss: 25.3339539 LR: [0.001] step: 201 score: 1650 best_score: 2680
+chkpt:2 epoch: 323 loss: 55.4155083 LR: [0.001] step: 201 score: 1360 best_score: 2680
+chkpt:2 epoch: 324 loss: 28.6577206 LR: [0.001] step: 201 score: 2390 best_score: 2680
+chkpt:2 epoch: 325 loss: 16.5606270 LR: [0.001] step: 201 score: 2220 best_score: 2680
+chkpt:2 epoch: 326 loss: 35.0587845 LR: [0.001] step: 201 score: 2040 best_score: 2680
+chkpt:2 epoch: 327 loss: 71.9310455 LR: [0.001] step: 201 score: 1370 best_score: 2680
+chkpt:2 epoch: 328 loss: 18.0050545 LR: [0.001] step: 201 score: 2180 best_score: 2680
+chkpt:2 epoch: 329 loss: 22.2512550 LR: [0.001] step: 201 score: 1880 best_score: 2680
+average score last 10 games: 1957.0
+GAME OVER
+chkpt:2 epoch: 330 loss: 17.3091812 LR: [0.001] step: 166 score: 1770 best_score: 2680
+chkpt:2 epoch: 331 loss: 52.1553230 LR: [0.001] step: 201 score: 2280 best_score: 2680
+chkpt:2 epoch: 332 loss: 23.6916084 LR: [0.001] step: 201 score: 2230 best_score: 2680
+chkpt:2 epoch: 333 loss: 33.1297798 LR: [0.001] step: 201 score: 2340 best_score: 2680
+chkpt:2 epoch: 334 loss: 31.4696808 LR: [0.001] step: 201 score: 1780 best_score: 2680
+chkpt:2 epoch: 335 loss: 8.6546268 LR: [0.001] step: 201 score: 2620 best_score: 2680
+chkpt:2 epoch: 336 loss: 25.2387848 LR: [0.001] step: 201 score: 2170 best_score: 2680
+chkpt:2 epoch: 337 loss: 16.0762062 LR: [0.001] step: 201 score: 1510 best_score: 2680
+GAME OVER
+chkpt:2 epoch: 338 loss: 12.3596058 LR: [0.001] step: 142 score: 1150 best_score: 2680
+chkpt:2 epoch: 339 loss: 14.2681875 LR: [0.001] step: 201 score: 2150 best_score: 2680
+average score last 10 games: 2000.0
+chkpt:2 epoch: 340 loss: 29.2570210 LR: [0.001] step: 201 score: 2230 best_score: 2680
+chkpt:2 epoch: 341 loss: 26.5799313 LR: [0.001] step: 201 score: 2550 best_score: 2680
+chkpt:2 epoch: 342 loss: 28.8186035 LR: [0.001] step: 201 score: 1880 best_score: 2680
+chkpt:2 epoch: 343 loss: 35.6142654 LR: [0.001] step: 201 score: 2010 best_score: 2680
+GAME OVER
+chkpt:2 epoch: 344 loss: 20.3165321 LR: [0.001] step: 173 score: 1430 best_score: 2680
+chkpt:2 epoch: 345 loss: 26.8292656 LR: [0.001] step: 201 score: 1320 best_score: 2680
+GAME OVER
+chkpt:2 epoch: 346 loss: 12.2325191 LR: [0.001] step: 194 score: 2400 best_score: 2680
+chkpt:2 epoch: 347 loss: 19.5371227 LR: [0.001] step: 201 score: 2260 best_score: 2680
+chkpt:2 epoch: 348 loss: 20.9313545 LR: [0.001] step: 201 score: 2330 best_score: 2680
+chkpt:2 epoch: 349 loss: 31.9416962 LR: [0.001] step: 201 score: 2150 best_score: 2680
+average score last 10 games: 2056.0
+GAME OVER
+chkpt:2 epoch: 350 loss: 29.0201721 LR: [0.001] step: 183 score: 1220 best_score: 2680
+chkpt:2 epoch: 351 loss: 31.9694023 LR: [0.001] step: 201 score: 2000 best_score: 2680
+GAME OVER
+chkpt:2 epoch: 352 loss: 31.4428596 LR: [0.001] step: 78 score: 990 best_score: 2680
+chkpt:2 epoch: 353 loss: 19.6001148 LR: [0.001] step: 201 score: 1820 best_score: 2680
+chkpt:2 epoch: 354 loss: 15.7386341 LR: [0.001] step: 201 score: 2310 best_score: 2680
+chkpt:2 epoch: 355 loss: 24.1223068 LR: [0.001] step: 201 score: 2520 best_score: 2680
+GAME OVER
+chkpt:2 epoch: 356 loss: 21.2001629 LR: [0.001] step: 162 score: 1270 best_score: 2680
+chkpt:2 epoch: 357 loss: 34.7294502 LR: [0.001] step: 201 score: 2060 best_score: 2680
+chkpt:2 epoch: 358 loss: 32.6819305 LR: [0.001] step: 201 score: 1650 best_score: 2680
+chkpt:2 epoch: 359 loss: 23.9026051 LR: [0.001] step: 201 score: 1870 best_score: 2680
+average score last 10 games: 1771.0
+chkpt:2 epoch: 360 loss: 27.6771259 LR: [0.001] step: 201 score: 2040 best_score: 2680
+chkpt:2 epoch: 361 loss: 25.1567955 LR: [0.001] step: 201 score: 2280 best_score: 2680
+chkpt:2 epoch: 362 loss: 34.1445198 LR: [0.001] step: 201 score: 1870 best_score: 2680
+chkpt:2 epoch: 363 loss: 9.8809433 LR: [0.001] step: 201 score: 2130 best_score: 2680
+chkpt:2 epoch: 364 loss: 29.4071579 LR: [0.001] step: 201 score: 2860 best_score: 2860
+chkpt:2 epoch: 365 loss: 35.1789513 LR: [0.001] step: 201 score: 2150 best_score: 2860
+chkpt:2 epoch: 366 loss: 20.2979393 LR: [0.001] step: 201 score: 1900 best_score: 2860
+GAME OVER
+chkpt:2 epoch: 367 loss: 16.0836258 LR: [0.001] step: 157 score: 1790 best_score: 2860
+chkpt:2 epoch: 368 loss: 35.3923988 LR: [0.001] step: 201 score: 1860 best_score: 2860
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 369 loss: 60.0448189 LR: [0.001] step: 201 score: 1120 best_score: 2860
+average score last 10 games: 2000.0
+chkpt:2 epoch: 370 loss: 25.8549500 LR: [0.001] step: 201 score: 1970 best_score: 2860
+chkpt:2 epoch: 371 loss: 5.7975993 LR: [0.001] step: 201 score: 2120 best_score: 2860
+GAME OVER
+chkpt:2 epoch: 372 loss: 32.1836700 LR: [0.001] step: 124 score: 880 best_score: 2860
+chkpt:2 epoch: 373 loss: 26.0377254 LR: [0.001] step: 201 score: 1870 best_score: 2860
+chkpt:2 epoch: 374 loss: 36.0292664 LR: [0.001] step: 201 score: 2170 best_score: 2860
+chkpt:2 epoch: 375 loss: 38.7431259 LR: [0.001] step: 201 score: 1890 best_score: 2860
+chkpt:2 epoch: 376 loss: 14.0724583 LR: [0.001] step: 201 score: 2060 best_score: 2860
+chkpt:2 epoch: 377 loss: 15.8112364 LR: [0.001] step: 201 score: 2310 best_score: 2860
+chkpt:2 epoch: 378 loss: 22.5998993 LR: [0.001] step: 201 score: 2350 best_score: 2860
+chkpt:2 epoch: 379 loss: 15.9077187 LR: [0.001] step: 201 score: 2230 best_score: 2860
+average score last 10 games: 1985.0
+chkpt:2 epoch: 380 loss: 22.2392960 LR: [0.001] step: 201 score: 2030 best_score: 2860
+chkpt:2 epoch: 381 loss: 34.6304893 LR: [0.001] step: 201 score: 2390 best_score: 2860
+chkpt:2 epoch: 382 loss: 24.1547375 LR: [0.001] step: 201 score: 1820 best_score: 2860
+chkpt:2 epoch: 383 loss: 14.0786743 LR: [0.001] step: 201 score: 2130 best_score: 2860
+GAME OVER
+chkpt:2 epoch: 384 loss: 30.3052979 LR: [0.001] step: 58 score: 430 best_score: 2860
+chkpt:2 epoch: 385 loss: 27.1041260 LR: [0.001] step: 201 score: 2370 best_score: 2860
+chkpt:2 epoch: 386 loss: 31.3691025 LR: [0.001] step: 201 score: 2190 best_score: 2860
+chkpt:2 epoch: 387 loss: 15.8238554 LR: [0.001] step: 201 score: 2150 best_score: 2860
+chkpt:2 epoch: 388 loss: 23.8871002 LR: [0.001] step: 201 score: 2400 best_score: 2860
+chkpt:2 epoch: 389 loss: 12.7564850 LR: [0.001] step: 201 score: 1620 best_score: 2860
+average score last 10 games: 1953.0
+chkpt:2 epoch: 390 loss: 27.2105026 LR: [0.001] step: 201 score: 2330 best_score: 2860
+GAME OVER
+chkpt:2 epoch: 391 loss: 41.6496277 LR: [0.001] step: 182 score: 2110 best_score: 2860
+chkpt:2 epoch: 392 loss: 10.2841959 LR: [0.001] step: 201 score: 2430 best_score: 2860
+chkpt:2 epoch: 393 loss: 27.3415413 LR: [0.001] step: 201 score: 2050 best_score: 2860
+chkpt:2 epoch: 394 loss: 18.8344879 LR: [0.001] step: 201 score: 1790 best_score: 2860
+chkpt:2 epoch: 395 loss: 26.8303413 LR: [0.001] step: 201 score: 1740 best_score: 2860
+chkpt:2 epoch: 396 loss: 23.5995865 LR: [0.001] step: 201 score: 2110 best_score: 2860
+chkpt:2 epoch: 397 loss: 17.1414509 LR: [0.001] step: 201 score: 1610 best_score: 2860
+GAME OVER
+chkpt:2 epoch: 398 loss: 35.0958672 LR: [0.001] step: 159 score: 1670 best_score: 2860
+chkpt:2 epoch: 399 loss: 37.6621857 LR: [0.001] step: 201 score: 1780 best_score: 2860
+average score last 10 games: 1962.0
+chkpt:2 epoch: 400 loss: 16.2759323 LR: [0.001] step: 201 score: 2140 best_score: 2860
+chkpt:2 epoch: 401 loss: 15.7018890 LR: [0.001] step: 201 score: 1960 best_score: 2860
+GAME OVER
+chkpt:2 epoch: 402 loss: 11.5101204 LR: [0.001] step: 183 score: 1930 best_score: 2860
+chkpt:2 epoch: 403 loss: 53.1025391 LR: [0.001] step: 201 score: 2470 best_score: 2860
+chkpt:2 epoch: 404 loss: 32.4543037 LR: [0.001] step: 201 score: 2450 best_score: 2860
+chkpt:2 epoch: 405 loss: 33.4923706 LR: [0.001] step: 201 score: 2350 best_score: 2860
+chkpt:2 epoch: 406 loss: 16.3608875 LR: [0.001] step: 201 score: 2180 best_score: 2860
+chkpt:2 epoch: 407 loss: 18.8120995 LR: [0.001] step: 201 score: 1810 best_score: 2860
+chkpt:2 epoch: 408 loss: 31.5628357 LR: [0.001] step: 201 score: 2890 best_score: 2890
+chkpt:2 epoch: 409 loss: 20.5333710 LR: [0.001] step: 201 score: 1490 best_score: 2890
+average score last 10 games: 2167.0
+chkpt:2 epoch: 410 loss: 19.0618248 LR: [0.001] step: 201 score: 2160 best_score: 2890
+chkpt:2 epoch: 411 loss: 19.3732872 LR: [0.001] step: 201 score: 1860 best_score: 2890
+chkpt:2 epoch: 412 loss: 22.6830215 LR: [0.001] step: 201 score: 2200 best_score: 2890
+chkpt:2 epoch: 413 loss: 44.0995407 LR: [0.001] step: 201 score: 2370 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 414 loss: 33.1419601 LR: [0.001] step: 194 score: 2070 best_score: 2890
+chkpt:2 epoch: 415 loss: 17.3827286 LR: [0.001] step: 201 score: 1880 best_score: 2890
+chkpt:2 epoch: 416 loss: 16.0153313 LR: [0.001] step: 201 score: 2560 best_score: 2890
+chkpt:2 epoch: 417 loss: 8.9771061 LR: [0.001] step: 201 score: 2440 best_score: 2890
+chkpt:2 epoch: 418 loss: 12.4140739 LR: [0.001] step: 201 score: 1820 best_score: 2890
+chkpt:2 epoch: 419 loss: 24.1750393 LR: [0.001] step: 201 score: 2370 best_score: 2890
+average score last 10 games: 2173.0
+GAME OVER
+chkpt:2 epoch: 420 loss: 19.1113739 LR: [0.001] step: 119 score: 1170 best_score: 2890
+chkpt:2 epoch: 421 loss: 15.5406227 LR: [0.001] step: 201 score: 2050 best_score: 2890
+chkpt:2 epoch: 422 loss: 27.8065453 LR: [0.001] step: 201 score: 2110 best_score: 2890
+chkpt:2 epoch: 423 loss: 21.2081871 LR: [0.001] step: 201 score: 2410 best_score: 2890
+chkpt:2 epoch: 424 loss: 29.1917439 LR: [0.001] step: 201 score: 2170 best_score: 2890
+chkpt:2 epoch: 425 loss: 77.9191742 LR: [0.001] step: 201 score: 1400 best_score: 2890
+chkpt:2 epoch: 426 loss: 29.1991119 LR: [0.001] step: 201 score: 2020 best_score: 2890
+chkpt:2 epoch: 427 loss: 24.4334526 LR: [0.001] step: 201 score: 1910 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 428 loss: 12.0268908 LR: [0.001] step: 195 score: 2000 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 429 loss: 18.1643181 LR: [0.001] step: 25 score: 230 best_score: 2890
+average score last 10 games: 1747.0
+chkpt:2 epoch: 430 loss: 18.9825859 LR: [0.001] step: 201 score: 2450 best_score: 2890
+chkpt:2 epoch: 431 loss: 14.6244717 LR: [0.001] step: 201 score: 1590 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 432 loss: 12.4846573 LR: [0.001] step: 171 score: 2060 best_score: 2890
+chkpt:2 epoch: 433 loss: 22.1416473 LR: [0.001] step: 201 score: 2510 best_score: 2890
+chkpt:2 epoch: 434 loss: 29.6237755 LR: [0.001] step: 201 score: 2050 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 435 loss: 21.1459999 LR: [0.001] step: 91 score: 540 best_score: 2890
+chkpt:2 epoch: 436 loss: 34.3664856 LR: [0.001] step: 201 score: 2410 best_score: 2890
+chkpt:2 epoch: 437 loss: 15.0465088 LR: [0.001] step: 201 score: 2480 best_score: 2890
+chkpt:2 epoch: 438 loss: 9.9550581 LR: [0.001] step: 201 score: 2180 best_score: 2890
+chkpt:2 epoch: 439 loss: 9.4911480 LR: [0.001] step: 201 score: 2120 best_score: 2890
+average score last 10 games: 2039.0
+chkpt:2 epoch: 440 loss: 17.1893559 LR: [0.001] step: 201 score: 2540 best_score: 2890
+chkpt:2 epoch: 441 loss: 15.5093660 LR: [0.001] step: 201 score: 1780 best_score: 2890
+chkpt:2 epoch: 442 loss: 45.4538879 LR: [0.001] step: 201 score: 1640 best_score: 2890
+chkpt:2 epoch: 443 loss: 11.5857344 LR: [0.001] step: 201 score: 2080 best_score: 2890
+chkpt:2 epoch: 444 loss: 11.3250771 LR: [0.001] step: 201 score: 2400 best_score: 2890
+chkpt:2 epoch: 445 loss: 34.9752121 LR: [0.001] step: 201 score: 1700 best_score: 2890
+chkpt:2 epoch: 446 loss: 21.4519119 LR: [0.001] step: 201 score: 1750 best_score: 2890
+chkpt:2 epoch: 447 loss: 23.9848652 LR: [0.001] step: 201 score: 2110 best_score: 2890
+chkpt:2 epoch: 448 loss: 24.5296345 LR: [0.001] step: 201 score: 2330 best_score: 2890
+chkpt:2 epoch: 449 loss: 21.9136372 LR: [0.001] step: 201 score: 2300 best_score: 2890
+average score last 10 games: 2063.0
+chkpt:2 epoch: 450 loss: 33.6853752 LR: [0.001] step: 201 score: 2410 best_score: 2890
+chkpt:2 epoch: 451 loss: 11.4833241 LR: [0.001] step: 201 score: 2090 best_score: 2890
+chkpt:2 epoch: 452 loss: 33.6488152 LR: [0.001] step: 201 score: 2380 best_score: 2890
+chkpt:2 epoch: 453 loss: 12.5510778 LR: [0.001] step: 201 score: 2020 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 454 loss: 24.8558617 LR: [0.001] step: 194 score: 1660 best_score: 2890
+chkpt:2 epoch: 455 loss: 16.7099152 LR: [0.001] step: 201 score: 1630 best_score: 2890
+chkpt:2 epoch: 456 loss: 8.3754768 LR: [0.001] step: 201 score: 2210 best_score: 2890
+chkpt:2 epoch: 457 loss: 19.8067589 LR: [0.001] step: 201 score: 2390 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 458 loss: 29.1656075 LR: [0.001] step: 144 score: 540 best_score: 2890
+chkpt:2 epoch: 459 loss: 27.2646599 LR: [0.001] step: 201 score: 1840 best_score: 2890
+average score last 10 games: 1917.0
+chkpt:2 epoch: 460 loss: 78.0339279 LR: [0.001] step: 201 score: 1650 best_score: 2890
+chkpt:2 epoch: 461 loss: 47.4410591 LR: [0.001] step: 201 score: 1980 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 462 loss: 18.7698860 LR: [0.001] step: 158 score: 1050 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 463 loss: 20.4802952 LR: [0.001] step: 135 score: 1240 best_score: 2890
+chkpt:2 epoch: 464 loss: 25.6241970 LR: [0.001] step: 201 score: 2430 best_score: 2890
+chkpt:2 epoch: 465 loss: 20.8011875 LR: [0.001] step: 201 score: 2600 best_score: 2890
+chkpt:2 epoch: 466 loss: 17.1731453 LR: [0.001] step: 201 score: 1880 best_score: 2890
+chkpt:2 epoch: 467 loss: 12.2596016 LR: [0.001] step: 201 score: 2080 best_score: 2890
+chkpt:2 epoch: 468 loss: 20.4671078 LR: [0.001] step: 201 score: 1760 best_score: 2890
+chkpt:2 epoch: 469 loss: 17.0596733 LR: [0.001] step: 201 score: 1460 best_score: 2890
+average score last 10 games: 1813.0
+chkpt:2 epoch: 470 loss: 32.6854095 LR: [0.001] step: 201 score: 2440 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 471 loss: 16.1063766 LR: [0.001] step: 99 score: 860 best_score: 2890
+chkpt:2 epoch: 472 loss: 25.9622192 LR: [0.001] step: 201 score: 1730 best_score: 2890
+chkpt:2 epoch: 473 loss: 16.2783260 LR: [0.001] step: 201 score: 2360 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 474 loss: 15.1338825 LR: [0.001] step: 163 score: 1640 best_score: 2890
+chkpt:2 epoch: 475 loss: 69.7690048 LR: [0.001] step: 201 score: 1590 best_score: 2890
+chkpt:2 epoch: 476 loss: 21.1457329 LR: [0.001] step: 201 score: 2080 best_score: 2890
+chkpt:2 epoch: 477 loss: 61.5352478 LR: [0.001] step: 201 score: 2160 best_score: 2890
+chkpt:2 epoch: 478 loss: 26.0989265 LR: [0.001] step: 201 score: 1920 best_score: 2890
+chkpt:2 epoch: 479 loss: 23.5709858 LR: [0.001] step: 201 score: 1950 best_score: 2890
+average score last 10 games: 1873.0
+chkpt:2 epoch: 480 loss: 20.4837151 LR: [0.001] step: 201 score: 2390 best_score: 2890
+chkpt:2 epoch: 481 loss: 16.4056263 LR: [0.001] step: 201 score: 2190 best_score: 2890
+chkpt:2 epoch: 482 loss: 17.8054504 LR: [0.001] step: 201 score: 2600 best_score: 2890
+chkpt:2 epoch: 483 loss: 21.7961464 LR: [0.001] step: 201 score: 2500 best_score: 2890
+chkpt:2 epoch: 484 loss: 47.6355171 LR: [0.001] step: 201 score: 2420 best_score: 2890
+chkpt:2 epoch: 485 loss: 42.2904816 LR: [0.001] step: 201 score: 1630 best_score: 2890
+chkpt:2 epoch: 486 loss: 18.8454018 LR: [0.001] step: 201 score: 2380 best_score: 2890
+chkpt:2 epoch: 487 loss: 20.4811668 LR: [0.001] step: 201 score: 1940 best_score: 2890
+chkpt:2 epoch: 488 loss: 10.2880135 LR: [0.001] step: 201 score: 2310 best_score: 2890
+chkpt:2 epoch: 489 loss: 30.8889141 LR: [0.001] step: 201 score: 1950 best_score: 2890
+average score last 10 games: 2231.0
+chkpt:2 epoch: 490 loss: 18.9104195 LR: [0.001] step: 201 score: 2310 best_score: 2890
+chkpt:2 epoch: 491 loss: 43.2828140 LR: [0.001] step: 201 score: 2490 best_score: 2890
+chkpt:2 epoch: 492 loss: 15.2667208 LR: [0.001] step: 201 score: 1530 best_score: 2890
+chkpt:2 epoch: 493 loss: 43.5015564 LR: [0.001] step: 201 score: 2630 best_score: 2890
+chkpt:2 epoch: 494 loss: 19.7763462 LR: [0.001] step: 201 score: 2010 best_score: 2890
+chkpt:2 epoch: 495 loss: 16.6083603 LR: [0.001] step: 201 score: 2200 best_score: 2890
+chkpt:2 epoch: 496 loss: 21.1960583 LR: [0.001] step: 201 score: 2460 best_score: 2890
+chkpt:2 epoch: 497 loss: 25.5857601 LR: [0.001] step: 201 score: 2400 best_score: 2890
+chkpt:2 epoch: 498 loss: 8.9299812 LR: [0.001] step: 201 score: 1780 best_score: 2890
+chkpt:2 epoch: 499 loss: 28.5218925 LR: [0.001] step: 201 score: 2730 best_score: 2890
+average score last 10 games: 2254.0
+GAME OVER
+chkpt:2 epoch: 500 loss: 21.6685219 LR: [0.001] step: 172 score: 1460 best_score: 2890
+chkpt:2 epoch: 501 loss: 14.7658615 LR: [0.001] step: 201 score: 1850 best_score: 2890
+chkpt:2 epoch: 502 loss: 29.0843506 LR: [0.001] step: 201 score: 2440 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 503 loss: 21.0590820 LR: [0.001] step: 186 score: 1420 best_score: 2890
+chkpt:2 epoch: 504 loss: 56.9924202 LR: [0.001] step: 201 score: 2230 best_score: 2890
+chkpt:2 epoch: 505 loss: 28.0935841 LR: [0.001] step: 201 score: 1730 best_score: 2890
+chkpt:2 epoch: 506 loss: 17.6599255 LR: [0.001] step: 201 score: 2150 best_score: 2890
+chkpt:2 epoch: 507 loss: 39.6959610 LR: [0.001] step: 201 score: 1910 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 508 loss: 17.5041809 LR: [0.001] step: 155 score: 2490 best_score: 2890
+chkpt:2 epoch: 509 loss: 22.3198109 LR: [0.001] step: 201 score: 2660 best_score: 2890
+average score last 10 games: 2034.0
+chkpt:2 epoch: 510 loss: 13.4571552 LR: [0.001] step: 201 score: 2370 best_score: 2890
+chkpt:2 epoch: 511 loss: 7.1706495 LR: [0.001] step: 201 score: 2660 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 512 loss: 29.8029900 LR: [0.001] step: 146 score: 1480 best_score: 2890
+chkpt:2 epoch: 513 loss: 17.9049206 LR: [0.001] step: 201 score: 2810 best_score: 2890
+chkpt:2 epoch: 514 loss: 53.6491470 LR: [0.001] step: 201 score: 2110 best_score: 2890
+chkpt:2 epoch: 515 loss: 59.7604866 LR: [0.001] step: 201 score: 2810 best_score: 2890
+chkpt:2 epoch: 516 loss: 37.7225838 LR: [0.001] step: 201 score: 2490 best_score: 2890
+chkpt:2 epoch: 517 loss: 75.9275055 LR: [0.001] step: 201 score: 2340 best_score: 2890
+chkpt:2 epoch: 518 loss: 19.5910225 LR: [0.001] step: 201 score: 2480 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 519 loss: 16.3526821 LR: [0.001] step: 130 score: 1500 best_score: 2890
+average score last 10 games: 2305.0
+chkpt:2 epoch: 520 loss: 18.9535465 LR: [0.001] step: 201 score: 2080 best_score: 2890
+chkpt:2 epoch: 521 loss: 10.7599640 LR: [0.001] step: 201 score: 2570 best_score: 2890
+chkpt:2 epoch: 522 loss: 49.3269119 LR: [0.001] step: 201 score: 2180 best_score: 2890
+chkpt:2 epoch: 523 loss: 26.4034462 LR: [0.001] step: 201 score: 2100 best_score: 2890
+chkpt:2 epoch: 524 loss: 25.3711987 LR: [0.001] step: 201 score: 1750 best_score: 2890
+chkpt:2 epoch: 525 loss: 19.6206112 LR: [0.001] step: 201 score: 2170 best_score: 2890
+chkpt:2 epoch: 526 loss: 11.2310562 LR: [0.001] step: 201 score: 1750 best_score: 2890
+chkpt:2 epoch: 527 loss: 29.5151329 LR: [0.001] step: 201 score: 2310 best_score: 2890
+chkpt:2 epoch: 528 loss: 21.6661491 LR: [0.001] step: 201 score: 1810 best_score: 2890
+chkpt:2 epoch: 529 loss: 20.2385979 LR: [0.001] step: 201 score: 2240 best_score: 2890
+average score last 10 games: 2096.0
+chkpt:2 epoch: 530 loss: 10.7729483 LR: [0.001] step: 201 score: 2490 best_score: 2890
+chkpt:2 epoch: 531 loss: 31.2962837 LR: [0.001] step: 201 score: 1940 best_score: 2890
+chkpt:2 epoch: 532 loss: 14.0147209 LR: [0.001] step: 201 score: 2140 best_score: 2890
+chkpt:2 epoch: 533 loss: 31.5709209 LR: [0.001] step: 201 score: 2140 best_score: 2890
+chkpt:2 epoch: 534 loss: 23.8484993 LR: [0.001] step: 201 score: 1580 best_score: 2890
+chkpt:2 epoch: 535 loss: 19.3839474 LR: [0.001] step: 201 score: 2370 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 536 loss: 13.7809305 LR: [0.001] step: 191 score: 2680 best_score: 2890
+chkpt:2 epoch: 537 loss: 16.0961533 LR: [0.001] step: 201 score: 2060 best_score: 2890
+chkpt:2 epoch: 538 loss: 13.1061993 LR: [0.001] step: 201 score: 2200 best_score: 2890
+chkpt:2 epoch: 539 loss: 28.8184528 LR: [0.001] step: 201 score: 2270 best_score: 2890
+average score last 10 games: 2187.0
+chkpt:2 epoch: 540 loss: 13.4027262 LR: [0.001] step: 201 score: 2680 best_score: 2890
+chkpt:2 epoch: 541 loss: 19.5041904 LR: [0.001] step: 201 score: 2230 best_score: 2890
+GAME OVER
+GAME OVER
+chkpt:2 epoch: 542 loss: 14.0033264 LR: [0.001] step: 181 score: 1860 best_score: 2890
+chkpt:2 epoch: 543 loss: 15.7875872 LR: [0.001] step: 201 score: 2560 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 544 loss: 12.7430563 LR: [0.001] step: 193 score: 2360 best_score: 2890
+chkpt:2 epoch: 545 loss: 20.8661404 LR: [0.001] step: 201 score: 1790 best_score: 2890
+chkpt:2 epoch: 546 loss: 8.8426628 LR: [0.001] step: 201 score: 1840 best_score: 2890
+chkpt:2 epoch: 547 loss: 10.7568407 LR: [0.001] step: 201 score: 1640 best_score: 2890
+chkpt:2 epoch: 548 loss: 14.5766029 LR: [0.001] step: 201 score: 2000 best_score: 2890
+chkpt:2 epoch: 549 loss: 26.0287666 LR: [0.001] step: 201 score: 2600 best_score: 2890
+average score last 10 games: 2156.0
+chkpt:2 epoch: 550 loss: 37.6644325 LR: [0.001] step: 201 score: 2420 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 551 loss: 25.6335926 LR: [0.001] step: 149 score: 1520 best_score: 2890
+chkpt:2 epoch: 552 loss: 33.0676842 LR: [0.001] step: 201 score: 2630 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 553 loss: 27.2639103 LR: [0.001] step: 103 score: 860 best_score: 2890
+chkpt:2 epoch: 554 loss: 29.3457394 LR: [0.001] step: 201 score: 2530 best_score: 2890
+chkpt:2 epoch: 555 loss: 26.3365269 LR: [0.001] step: 201 score: 2440 best_score: 2890
+chkpt:2 epoch: 556 loss: 33.6445656 LR: [0.001] step: 201 score: 2310 best_score: 2890
+chkpt:2 epoch: 557 loss: 40.5437241 LR: [0.001] step: 201 score: 1730 best_score: 2890
+chkpt:2 epoch: 558 loss: 11.1706610 LR: [0.001] step: 201 score: 2170 best_score: 2890
+chkpt:2 epoch: 559 loss: 90.0924530 LR: [0.001] step: 201 score: 1970 best_score: 2890
+average score last 10 games: 2058.0
+GAME OVER
+chkpt:2 epoch: 560 loss: 18.0184097 LR: [0.001] step: 179 score: 1360 best_score: 2890
+chkpt:2 epoch: 561 loss: 24.5179367 LR: [0.001] step: 201 score: 1590 best_score: 2890
+chkpt:2 epoch: 562 loss: 26.3503132 LR: [0.001] step: 201 score: 2020 best_score: 2890
+chkpt:2 epoch: 563 loss: 6.6140804 LR: [0.001] step: 201 score: 2610 best_score: 2890
+chkpt:2 epoch: 564 loss: 13.8324757 LR: [0.001] step: 201 score: 2260 best_score: 2890
+chkpt:2 epoch: 565 loss: 13.6659031 LR: [0.001] step: 201 score: 1440 best_score: 2890
+chkpt:2 epoch: 566 loss: 45.5474129 LR: [0.001] step: 201 score: 2650 best_score: 2890
+chkpt:2 epoch: 567 loss: 20.5404224 LR: [0.001] step: 201 score: 2130 best_score: 2890
+chkpt:2 epoch: 568 loss: 27.1193962 LR: [0.001] step: 201 score: 2420 best_score: 2890
+chkpt:2 epoch: 569 loss: 11.5708551 LR: [0.001] step: 201 score: 1910 best_score: 2890
+average score last 10 games: 2039.0
+chkpt:2 epoch: 570 loss: 18.5732708 LR: [0.001] step: 201 score: 2260 best_score: 2890
+chkpt:2 epoch: 571 loss: 45.8964920 LR: [0.001] step: 201 score: 1730 best_score: 2890
+chkpt:2 epoch: 572 loss: 30.6695423 LR: [0.001] step: 201 score: 2110 best_score: 2890
+chkpt:2 epoch: 573 loss: 9.0356903 LR: [0.001] step: 201 score: 2070 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 574 loss: 19.5095158 LR: [0.001] step: 151 score: 1720 best_score: 2890
+chkpt:2 epoch: 575 loss: 119.9600067 LR: [0.001] step: 201 score: 1970 best_score: 2890
+chkpt:2 epoch: 576 loss: 12.6482010 LR: [0.001] step: 201 score: 2050 best_score: 2890
+chkpt:2 epoch: 577 loss: 12.0149078 LR: [0.001] step: 201 score: 1930 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 578 loss: 48.7664757 LR: [0.001] step: 157 score: 1930 best_score: 2890
+chkpt:2 epoch: 579 loss: 17.7665501 LR: [0.001] step: 201 score: 1850 best_score: 2890
+average score last 10 games: 1962.0
+chkpt:2 epoch: 580 loss: 20.4166393 LR: [0.001] step: 201 score: 1550 best_score: 2890
+chkpt:2 epoch: 581 loss: 7.4598203 LR: [0.001] step: 201 score: 1670 best_score: 2890
+chkpt:2 epoch: 582 loss: 19.6202908 LR: [0.001] step: 201 score: 1880 best_score: 2890
+chkpt:2 epoch: 583 loss: 18.0574093 LR: [0.001] step: 201 score: 2200 best_score: 2890
+chkpt:2 epoch: 584 loss: 20.9151020 LR: [0.001] step: 201 score: 2480 best_score: 2890
+chkpt:2 epoch: 585 loss: 17.1026878 LR: [0.001] step: 201 score: 2520 best_score: 2890
+chkpt:2 epoch: 586 loss: 20.9379444 LR: [0.001] step: 201 score: 1650 best_score: 2890
+chkpt:2 epoch: 587 loss: 11.2181435 LR: [0.001] step: 201 score: 2400 best_score: 2890
+chkpt:2 epoch: 588 loss: 24.8425369 LR: [0.001] step: 201 score: 2220 best_score: 2890
+chkpt:2 epoch: 589 loss: 28.4074783 LR: [0.001] step: 201 score: 1820 best_score: 2890
+average score last 10 games: 2039.0
+chkpt:2 epoch: 590 loss: 18.1380692 LR: [0.001] step: 201 score: 2200 best_score: 2890
+chkpt:2 epoch: 591 loss: 12.1509886 LR: [0.001] step: 201 score: 1600 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 592 loss: 7.8370399 LR: [0.001] step: 172 score: 2050 best_score: 2890
+chkpt:2 epoch: 593 loss: 28.5504684 LR: [0.001] step: 201 score: 2420 best_score: 2890
+chkpt:2 epoch: 594 loss: 19.5288010 LR: [0.001] step: 201 score: 2400 best_score: 2890
+chkpt:2 epoch: 595 loss: 9.8077269 LR: [0.001] step: 201 score: 2380 best_score: 2890
+chkpt:2 epoch: 596 loss: 15.3437538 LR: [0.001] step: 201 score: 2220 best_score: 2890
+chkpt:2 epoch: 597 loss: 41.5681000 LR: [0.001] step: 201 score: 2130 best_score: 2890
+chkpt:2 epoch: 598 loss: 6.4251995 LR: [0.001] step: 201 score: 1810 best_score: 2890
+chkpt:2 epoch: 599 loss: 13.2759275 LR: [0.001] step: 201 score: 1750 best_score: 2890
+average score last 10 games: 2096.0
+chkpt:2 epoch: 600 loss: 9.4037504 LR: [0.001] step: 201 score: 2100 best_score: 2890
+chkpt:2 epoch: 601 loss: 17.1183681 LR: [0.001] step: 201 score: 2650 best_score: 2890
+chkpt:2 epoch: 602 loss: 16.5458241 LR: [0.001] step: 201 score: 2210 best_score: 2890
+chkpt:2 epoch: 603 loss: 39.1089630 LR: [0.001] step: 201 score: 2350 best_score: 2890
+chkpt:2 epoch: 604 loss: 12.2330704 LR: [0.001] step: 201 score: 2290 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 605 loss: 19.2464828 LR: [0.001] step: 178 score: 2390 best_score: 2890
+chkpt:2 epoch: 606 loss: 21.1461277 LR: [0.001] step: 201 score: 2350 best_score: 2890
+chkpt:2 epoch: 607 loss: 30.5504551 LR: [0.001] step: 201 score: 2490 best_score: 2890
+chkpt:2 epoch: 608 loss: 35.8115997 LR: [0.001] step: 201 score: 1730 best_score: 2890
+chkpt:2 epoch: 609 loss: 31.4732132 LR: [0.001] step: 201 score: 2510 best_score: 2890
+average score last 10 games: 2307.0
+chkpt:2 epoch: 610 loss: 12.8468533 LR: [0.001] step: 201 score: 2600 best_score: 2890
+GAME OVER
+chkpt:2 epoch: 611 loss: 15.9434299 LR: [0.001] step: 201 score: 1650 best_score: 2890
+chkpt:2 epoch: 612 loss: 10.9373398 LR: [0.001] step: 201 score: 2630 best_score: 2890
+chkpt:2 epoch: 613 loss: 36.0759811 LR: [0.001] step: 201 score: 2260 best_score: 2890
+chkpt:2 epoch: 614 loss: 37.8780746 LR: [0.001] step: 201 score: 2500 best_score: 2890
+chkpt:2 epoch: 615 loss: 18.4617558 LR: [0.001] step: 201 score: 3030 best_score: 3030
+chkpt:2 epoch: 616 loss: 12.4220772 LR: [0.001] step: 201 score: 2610 best_score: 3030
+chkpt:2 epoch: 617 loss: 11.4315510 LR: [0.001] step: 201 score: 1960 best_score: 3030
+chkpt:2 epoch: 618 loss: 8.2929783 LR: [0.001] step: 201 score: 2080 best_score: 3030
+chkpt:2 epoch: 619 loss: 33.5030098 LR: [0.001] step: 201 score: 2200 best_score: 3030
+average score last 10 games: 2352.0
+chkpt:2 epoch: 620 loss: 23.5933361 LR: [0.001] step: 201 score: 2450 best_score: 3030
+chkpt:2 epoch: 621 loss: 19.9318027 LR: [0.001] step: 201 score: 1830 best_score: 3030
+chkpt:2 epoch: 622 loss: 28.6738377 LR: [0.001] step: 201 score: 2030 best_score: 3030
+chkpt:2 epoch: 623 loss: 13.4165211 LR: [0.001] step: 201 score: 1940 best_score: 3030
+chkpt:2 epoch: 624 loss: 9.8124580 LR: [0.001] step: 201 score: 2590 best_score: 3030
+chkpt:2 epoch: 625 loss: 20.8469353 LR: [0.001] step: 201 score: 1890 best_score: 3030
+chkpt:2 epoch: 626 loss: 17.9604797 LR: [0.001] step: 201 score: 2820 best_score: 3030
+chkpt:2 epoch: 627 loss: 24.7601089 LR: [0.001] step: 201 score: 1820 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 628 loss: 11.6843166 LR: [0.001] step: 175 score: 1810 best_score: 3030
+chkpt:2 epoch: 629 loss: 21.4201794 LR: [0.001] step: 201 score: 2320 best_score: 3030
+average score last 10 games: 2150.0
+chkpt:2 epoch: 630 loss: 11.9226942 LR: [0.001] step: 201 score: 2410 best_score: 3030
+chkpt:2 epoch: 631 loss: 12.6512079 LR: [0.001] step: 201 score: 2220 best_score: 3030
+chkpt:2 epoch: 632 loss: 12.9312458 LR: [0.001] step: 201 score: 2940 best_score: 3030
+chkpt:2 epoch: 633 loss: 19.0757008 LR: [0.001] step: 201 score: 2360 best_score: 3030
+chkpt:2 epoch: 634 loss: 5.1993155 LR: [0.001] step: 201 score: 2360 best_score: 3030
+chkpt:2 epoch: 635 loss: 21.3703575 LR: [0.001] step: 201 score: 2590 best_score: 3030
+chkpt:2 epoch: 636 loss: 16.9491615 LR: [0.001] step: 201 score: 2380 best_score: 3030
+chkpt:2 epoch: 637 loss: 18.4484787 LR: [0.001] step: 201 score: 2210 best_score: 3030
+chkpt:2 epoch: 638 loss: 45.0822449 LR: [0.001] step: 201 score: 1740 best_score: 3030
+chkpt:2 epoch: 639 loss: 14.4860783 LR: [0.001] step: 201 score: 2420 best_score: 3030
+average score last 10 games: 2363.0
+chkpt:2 epoch: 640 loss: 22.8962803 LR: [0.001] step: 201 score: 2370 best_score: 3030
+chkpt:2 epoch: 641 loss: 17.6210899 LR: [0.001] step: 201 score: 1780 best_score: 3030
+chkpt:2 epoch: 642 loss: 25.8175316 LR: [0.001] step: 201 score: 2670 best_score: 3030
+chkpt:2 epoch: 643 loss: 9.7006712 LR: [0.001] step: 201 score: 1980 best_score: 3030
+chkpt:2 epoch: 644 loss: 14.5172787 LR: [0.001] step: 201 score: 2380 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 645 loss: 29.1648884 LR: [0.001] step: 201 score: 2080 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 646 loss: 31.4484882 LR: [0.001] step: 148 score: 1730 best_score: 3030
+chkpt:2 epoch: 647 loss: 14.3813982 LR: [0.001] step: 201 score: 2550 best_score: 3030
+chkpt:2 epoch: 648 loss: 16.1059284 LR: [0.001] step: 201 score: 2390 best_score: 3030
+chkpt:2 epoch: 649 loss: 76.5044098 LR: [0.001] step: 201 score: 2550 best_score: 3030
+average score last 10 games: 2248.0
+GAME OVER
+chkpt:2 epoch: 650 loss: 49.3184853 LR: [0.001] step: 122 score: 1110 best_score: 3030
+chkpt:2 epoch: 651 loss: 52.0223274 LR: [0.001] step: 201 score: 2250 best_score: 3030
+chkpt:2 epoch: 652 loss: 13.6430883 LR: [0.001] step: 201 score: 2560 best_score: 3030
+chkpt:2 epoch: 653 loss: 11.7143030 LR: [0.001] step: 201 score: 1770 best_score: 3030
+chkpt:2 epoch: 654 loss: 15.0195675 LR: [0.001] step: 201 score: 1620 best_score: 3030
+chkpt:2 epoch: 655 loss: 19.3249741 LR: [0.001] step: 201 score: 1760 best_score: 3030
+chkpt:2 epoch: 656 loss: 17.4171581 LR: [0.001] step: 201 score: 2380 best_score: 3030
+chkpt:2 epoch: 657 loss: 7.1345806 LR: [0.001] step: 201 score: 2270 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 658 loss: 14.8810024 LR: [0.001] step: 179 score: 2320 best_score: 3030
+chkpt:2 epoch: 659 loss: 15.0980358 LR: [0.001] step: 201 score: 2610 best_score: 3030
+average score last 10 games: 2065.0
+chkpt:2 epoch: 660 loss: 15.5256424 LR: [0.001] step: 201 score: 2200 best_score: 3030
+chkpt:2 epoch: 661 loss: 16.2177868 LR: [0.001] step: 201 score: 2300 best_score: 3030
+chkpt:2 epoch: 662 loss: 23.9814224 LR: [0.001] step: 201 score: 1700 best_score: 3030
+chkpt:2 epoch: 663 loss: 16.1380520 LR: [0.001] step: 201 score: 1820 best_score: 3030
+chkpt:2 epoch: 664 loss: 29.1027870 LR: [0.001] step: 201 score: 1730 best_score: 3030
+chkpt:2 epoch: 665 loss: 40.2002487 LR: [0.001] step: 201 score: 2680 best_score: 3030
+chkpt:2 epoch: 666 loss: 29.1157322 LR: [0.001] step: 201 score: 2110 best_score: 3030
+chkpt:2 epoch: 667 loss: 25.3271866 LR: [0.001] step: 201 score: 2370 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 668 loss: 16.7724266 LR: [0.001] step: 200 score: 1640 best_score: 3030
+chkpt:2 epoch: 669 loss: 14.9468422 LR: [0.001] step: 201 score: 1650 best_score: 3030
+average score last 10 games: 2020.0
+chkpt:2 epoch: 670 loss: 14.5479450 LR: [0.001] step: 201 score: 2140 best_score: 3030
+chkpt:2 epoch: 671 loss: 67.9441071 LR: [0.001] step: 201 score: 1960 best_score: 3030
+chkpt:2 epoch: 672 loss: 13.6599693 LR: [0.001] step: 201 score: 2350 best_score: 3030
+chkpt:2 epoch: 673 loss: 11.2420578 LR: [0.001] step: 201 score: 2210 best_score: 3030
+chkpt:2 epoch: 674 loss: 17.7653198 LR: [0.001] step: 201 score: 2450 best_score: 3030
+chkpt:2 epoch: 675 loss: 100.0780487 LR: [0.001] step: 201 score: 2440 best_score: 3030
+chkpt:2 epoch: 676 loss: 24.9193401 LR: [0.001] step: 201 score: 1920 best_score: 3030
+chkpt:2 epoch: 677 loss: 14.4063873 LR: [0.001] step: 201 score: 2400 best_score: 3030
+chkpt:2 epoch: 678 loss: 12.2329416 LR: [0.001] step: 201 score: 2550 best_score: 3030
+chkpt:2 epoch: 679 loss: 12.1712151 LR: [0.001] step: 201 score: 2180 best_score: 3030
+average score last 10 games: 2260.0
+chkpt:2 epoch: 680 loss: 21.3009129 LR: [0.001] step: 201 score: 2690 best_score: 3030
+chkpt:2 epoch: 681 loss: 29.0295277 LR: [0.001] step: 201 score: 2500 best_score: 3030
+chkpt:2 epoch: 682 loss: 6.1118917 LR: [0.001] step: 201 score: 2100 best_score: 3030
+chkpt:2 epoch: 683 loss: 42.4273453 LR: [0.001] step: 201 score: 2380 best_score: 3030
+chkpt:2 epoch: 684 loss: 16.1031055 LR: [0.001] step: 201 score: 2330 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 685 loss: 23.6495056 LR: [0.001] step: 163 score: 2280 best_score: 3030
+chkpt:2 epoch: 686 loss: 7.5118876 LR: [0.001] step: 201 score: 1920 best_score: 3030
+chkpt:2 epoch: 687 loss: 85.5734863 LR: [0.001] step: 201 score: 2400 best_score: 3030
+chkpt:2 epoch: 688 loss: 53.4859352 LR: [0.001] step: 201 score: 2230 best_score: 3030
+chkpt:2 epoch: 689 loss: 15.8622952 LR: [0.001] step: 201 score: 2620 best_score: 3030
+average score last 10 games: 2345.0
+chkpt:2 epoch: 690 loss: 11.6866741 LR: [0.001] step: 201 score: 2430 best_score: 3030
+chkpt:2 epoch: 691 loss: 9.2321606 LR: [0.001] step: 201 score: 2460 best_score: 3030
+chkpt:2 epoch: 692 loss: 14.1473141 LR: [0.001] step: 201 score: 2450 best_score: 3030
+chkpt:2 epoch: 693 loss: 13.3752518 LR: [0.001] step: 201 score: 1990 best_score: 3030
+chkpt:2 epoch: 694 loss: 7.7422848 LR: [0.001] step: 201 score: 1650 best_score: 3030
+chkpt:2 epoch: 695 loss: 20.5705986 LR: [0.001] step: 201 score: 2620 best_score: 3030
+chkpt:2 epoch: 696 loss: 33.2657623 LR: [0.001] step: 201 score: 1900 best_score: 3030
+chkpt:2 epoch: 697 loss: 34.3837433 LR: [0.001] step: 201 score: 1510 best_score: 3030
+chkpt:2 epoch: 698 loss: 12.8286486 LR: [0.001] step: 201 score: 2090 best_score: 3030
+chkpt:2 epoch: 699 loss: 14.1099987 LR: [0.001] step: 201 score: 2150 best_score: 3030
+average score last 10 games: 2125.0
+chkpt:2 epoch: 700 loss: 13.2604227 LR: [0.001] step: 201 score: 1510 best_score: 3030
+chkpt:2 epoch: 701 loss: 12.3278122 LR: [0.001] step: 201 score: 2140 best_score: 3030
+chkpt:2 epoch: 702 loss: 5.9838581 LR: [0.001] step: 201 score: 2850 best_score: 3030
+chkpt:2 epoch: 703 loss: 7.1301799 LR: [0.001] step: 201 score: 2540 best_score: 3030
+chkpt:2 epoch: 704 loss: 12.2306747 LR: [0.001] step: 201 score: 2760 best_score: 3030
+chkpt:2 epoch: 705 loss: 7.9881301 LR: [0.001] step: 201 score: 3010 best_score: 3030
+chkpt:2 epoch: 706 loss: 13.0194759 LR: [0.001] step: 201 score: 2330 best_score: 3030
+chkpt:2 epoch: 707 loss: 16.8005333 LR: [0.001] step: 201 score: 1870 best_score: 3030
+chkpt:2 epoch: 708 loss: 21.7299576 LR: [0.001] step: 201 score: 2570 best_score: 3030
+chkpt:2 epoch: 709 loss: 7.2647219 LR: [0.001] step: 201 score: 1700 best_score: 3030
+average score last 10 games: 2328.0
+chkpt:2 epoch: 710 loss: 14.4066887 LR: [0.001] step: 201 score: 1830 best_score: 3030
+chkpt:2 epoch: 711 loss: 73.1796036 LR: [0.001] step: 201 score: 1960 best_score: 3030
+chkpt:2 epoch: 712 loss: 13.9265499 LR: [0.001] step: 201 score: 1940 best_score: 3030
+chkpt:2 epoch: 713 loss: 13.8236370 LR: [0.001] step: 201 score: 2540 best_score: 3030
+chkpt:2 epoch: 714 loss: 18.2374096 LR: [0.001] step: 201 score: 1890 best_score: 3030
+chkpt:2 epoch: 715 loss: 3.2937348 LR: [0.001] step: 201 score: 2490 best_score: 3030
+chkpt:2 epoch: 716 loss: 22.6772728 LR: [0.001] step: 201 score: 2280 best_score: 3030
+chkpt:2 epoch: 717 loss: 6.6769948 LR: [0.001] step: 201 score: 2050 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 718 loss: 8.4774380 LR: [0.001] step: 154 score: 1710 best_score: 3030
+chkpt:2 epoch: 719 loss: 13.0092239 LR: [0.001] step: 201 score: 2050 best_score: 3030
+average score last 10 games: 2074.0
+chkpt:2 epoch: 720 loss: 73.8223267 LR: [0.001] step: 201 score: 2110 best_score: 3030
+chkpt:2 epoch: 721 loss: 23.3782978 LR: [0.001] step: 201 score: 2180 best_score: 3030
+chkpt:2 epoch: 722 loss: 30.0311279 LR: [0.001] step: 201 score: 2280 best_score: 3030
+chkpt:2 epoch: 723 loss: 10.4076300 LR: [0.001] step: 201 score: 2120 best_score: 3030
+chkpt:2 epoch: 724 loss: 40.7643814 LR: [0.001] step: 201 score: 2150 best_score: 3030
+chkpt:2 epoch: 725 loss: 67.9045868 LR: [0.001] step: 201 score: 2380 best_score: 3030
+chkpt:2 epoch: 726 loss: 28.6010342 LR: [0.001] step: 201 score: 2520 best_score: 3030
+chkpt:2 epoch: 727 loss: 32.1873512 LR: [0.001] step: 201 score: 2610 best_score: 3030
+chkpt:2 epoch: 728 loss: 17.1760387 LR: [0.001] step: 201 score: 2150 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 729 loss: 21.4848156 LR: [0.001] step: 150 score: 1850 best_score: 3030
+average score last 10 games: 2235.0
+chkpt:2 epoch: 730 loss: 16.6587811 LR: [0.001] step: 201 score: 2030 best_score: 3030
+chkpt:2 epoch: 731 loss: 16.8533363 LR: [0.001] step: 201 score: 2250 best_score: 3030
+chkpt:2 epoch: 732 loss: 69.0245285 LR: [0.001] step: 201 score: 2180 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 733 loss: 31.1394081 LR: [0.001] step: 163 score: 1680 best_score: 3030
+chkpt:2 epoch: 734 loss: 12.1177168 LR: [0.001] step: 201 score: 2450 best_score: 3030
+chkpt:2 epoch: 735 loss: 20.4360428 LR: [0.001] step: 201 score: 2350 best_score: 3030
+chkpt:2 epoch: 736 loss: 22.3502464 LR: [0.001] step: 201 score: 2140 best_score: 3030
+chkpt:2 epoch: 737 loss: 14.1061068 LR: [0.001] step: 201 score: 2590 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 738 loss: 14.6660366 LR: [0.001] step: 184 score: 1790 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 739 loss: 19.9757977 LR: [0.001] step: 91 score: 790 best_score: 3030
+average score last 10 games: 2025.0
+chkpt:2 epoch: 740 loss: 20.4261837 LR: [0.001] step: 201 score: 2190 best_score: 3030
+chkpt:2 epoch: 741 loss: 32.5784454 LR: [0.001] step: 201 score: 2660 best_score: 3030
+chkpt:2 epoch: 742 loss: 23.9820061 LR: [0.001] step: 201 score: 2520 best_score: 3030
+chkpt:2 epoch: 743 loss: 11.5623932 LR: [0.001] step: 201 score: 2240 best_score: 3030
+chkpt:2 epoch: 744 loss: 70.5273438 LR: [0.001] step: 201 score: 1590 best_score: 3030
+chkpt:2 epoch: 745 loss: 18.4952412 LR: [0.001] step: 201 score: 1620 best_score: 3030
+chkpt:2 epoch: 746 loss: 12.9886684 LR: [0.001] step: 201 score: 2080 best_score: 3030
+chkpt:2 epoch: 747 loss: 53.8333664 LR: [0.001] step: 201 score: 1900 best_score: 3030
+chkpt:2 epoch: 748 loss: 7.5019321 LR: [0.001] step: 201 score: 2310 best_score: 3030
+chkpt:2 epoch: 749 loss: 29.8565216 LR: [0.001] step: 201 score: 1870 best_score: 3030
+average score last 10 games: 2098.0
+chkpt:2 epoch: 750 loss: 12.5384388 LR: [0.001] step: 201 score: 2010 best_score: 3030
+chkpt:2 epoch: 751 loss: 10.3140764 LR: [0.001] step: 201 score: 2220 best_score: 3030
+chkpt:2 epoch: 752 loss: 13.7196808 LR: [0.001] step: 201 score: 2850 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 753 loss: 22.5916481 LR: [0.001] step: 165 score: 2210 best_score: 3030
+chkpt:2 epoch: 754 loss: 11.8383236 LR: [0.001] step: 201 score: 2340 best_score: 3030
+chkpt:2 epoch: 755 loss: 22.4330482 LR: [0.001] step: 201 score: 2420 best_score: 3030
+GAME OVER
+chkpt:2 epoch: 756 loss: 22.2750416 LR: [0.001] step: 163 score: 1590 best_score: 3030
+chkpt:2 epoch: 757 loss: 18.5153847 LR: [0.001] step: 201 score: 1620 best_score: 3030
+chkpt:2 epoch: 758 loss: 31.9144382 LR: [0.001] step: 201 score: 1710 best_score: 3030
+chkpt:2 epoch: 759 loss: 12.9911470 LR: [0.001] step: 201 score: 2040 best_score: 3030
+average score last 10 games: 2101.0
+chkpt:2 epoch: 760 loss: 13.0398741 LR: [0.001] step: 201 score: 2010 best_score: 3030
+chkpt:2 epoch: 761 loss: 15.8582134 LR: [0.001] step: 201 score: 2120 best_score: 3030
+chkpt:2 epoch: 762 loss: 18.8048191 LR: [0.001] step: 201 score: 1450 best_score: 3030
+Traceback (most recent call last):
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\Trainer_cnn.py", line 200, in <module>
+    main (chkpt)
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\Trainer_cnn.py", line 98, in main
+    gameTick,nextState,reward=game.tick(gameTick, action)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\environment.py", line 328, in tick
+    self.ghostMove(0)
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\environment.py", line 161, in ghostMove
+    self.ghostMove(ghost+1)
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\environment.py", line 161, in ghostMove
+    self.ghostMove(ghost+1)
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\environment.py", line 164, in ghostMove
+    self.determineTargetTile(ghost)
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\environment.py", line 270, in determineTargetTile
+    blinky=np.argwhere(abs(self.board)==10-np.argwhere(abs(self.ghostUnder)==10)[0])[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0

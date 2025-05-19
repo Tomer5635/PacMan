@@ -1,0 +1,32 @@
+GAME OVER
+chkpt:5 epoch: 0 loss: -1.0000000 LR: [0.0001] step: 77 score: 370 best_score: 370
+GAME OVER
+chkpt:5 epoch: 1 loss: 78.3657684 LR: [0.0001] step: 134 score: 680 best_score: 680
+GAME OVER
+chkpt:5 epoch: 2 loss: 2.2686124 LR: [0.0001] step: 77 score: 250 best_score: 680
+GAME OVER
+chkpt:5 epoch: 3 loss: 2.2556620 LR: [0.0001] step: 76 score: 120 best_score: 680
+GAME OVER
+chkpt:5 epoch: 4 loss: 64.7622375 LR: [0.0001] step: 122 score: 660 best_score: 680
+GAME OVER
+chkpt:5 epoch: 5 loss: 67.6104813 LR: [0.0001] step: 79 score: 440 best_score: 680
+GAME OVER
+chkpt:5 epoch: 6 loss: 3.8212278 LR: [0.0001] step: 136 score: 340 best_score: 680
+GAME OVER
+chkpt:5 epoch: 7 loss: 77.1750641 LR: [0.0001] step: 23 score: 190 best_score: 680
+GAME OVER
+chkpt:5 epoch: 8 loss: 5.1396990 LR: [0.0001] step: 99 score: 130 best_score: 680
+GAME OVER
+chkpt:5 epoch: 9 loss: 4.5996113 LR: [0.0001] step: 90 score: 470 best_score: 680
+average score last 10 games: 365.0
+GAME OVER
+chkpt:5 epoch: 10 loss: 4.6917048 LR: [0.0001] step: 84 score: 80 best_score: 680
+GAME OVER
+chkpt:5 epoch: 11 loss: 59.3170128 LR: [0.0001] step: 99 score: 200 best_score: 680
+GAME OVER
+chkpt:5 epoch: 12 loss: 4.0441065 LR: [0.0001] step: 31 score: 180 best_score: 680
+GAME OVER
+chkpt:5 epoch: 13 loss: 44.2969971 LR: [0.0001] step: 99 score: 260 best_score: 680
+GAME OVER
+chkpt:5 epoch: 14 loss: 5.8839445 LR: [0.0001] step: 102 score: 200 best_score: 680
+chkpt:5 epoch: 15 loss: 55.5552559 LR: [0.0001] step: 89 score: 50 best_score: 680

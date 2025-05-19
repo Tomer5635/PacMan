@@ -1,0 +1,28 @@
+GAME OVER
+GAME OVER
+chkpt:4 epoch: 0 loss: -1.0000000 LR: [0.0001] step: 77 score: 510 best_score: 510
+Traceback (most recent call last):
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\Trainer_cnn.py", line 200, in <module>
+    main (chkpt)
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\Trainer_cnn.py", line 97, in main
+    action, state_action = player.getAction(state_cnn=state_cnn, epoch=epoch,train=True)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\DQN_Agent_CNN.py", line 54, in getAction
+    Q_values = self.DQN(states_cnn)
+               ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\DQN_CNN.py", line 74, in __call__
+    return self.forward(state)
+           ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\tomer\OneDrive\שולחן העבודה\Machine Learning\PacMan-1-1\DQN_CNN.py", line 53, in forward
+    x = F.relu(self.fc1(x))           # [B, 128]
+               ^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torch\nn\modules\linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (2x784 and 1296x64)
