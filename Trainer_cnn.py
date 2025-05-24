@@ -29,7 +29,7 @@ def main (chkpt):
     player_hat.DQN = player.DQN.copy()
     batch_size = 32
     buffer = ReplayBuffer()
-    learning_rate = 1e-3
+    learning_rate = 1e-4
     epochs = 100000
     start_epoch = 0
     gamma=0.5
@@ -41,6 +41,7 @@ def main (chkpt):
     # scheduler = torch.optim.lr_scheduler.StepLR(optim,100000, gamma=0.50)
     scheduler = torch.optim.lr_scheduler.MultiStepLR(optim,[1000*200, 2000*200, 5000*2000], gamma=gamma)
     step = 0
+    wl=[0,0]
     #endregion
     #region   ############# wandb init ###########################
     wandb.init(
@@ -60,21 +61,21 @@ def main (chkpt):
     )
     #endregion
     #region ######## checkpoint Load ############
-    checkpoint_path = "Data/checkpoint1.pth"
-    buffer_path = "Data/buffer1.pth"
-    # if os.path.exists(checkpoint_path):
-    #     checkpoint = torch.load(checkpoint_path)
-    #     start_epoch = checkpoint['epoch']+1
-    #     player.DQN.load_state_dict(checkpoint['model_state_dict'])
-    #     player_hat.DQN.load_state_dict(checkpoint['model_state_dict'])
-    #     optim.load_state_dict(checkpoint['optimizer_state_dict'])
-    #     scheduler.load_state_dict(checkpoint['scheduler_state_dict'])
-    #     buffer = torch.load(buffer_path)
-    #     losses = checkpoint['loss']
-    #     scores = checkpoint['scores']
-    #     avg_score = checkpoint['avg_score']
-    # player.DQN.train()
-    # player_hat.DQN.eval()
+    checkpoint_path = "Data/checkpoint0.pth"
+    # buffer_path = "Data/buffer1.pth"
+    if os.path.exists(checkpoint_path):
+        checkpoint = torch.load(checkpoint_path)
+        start_epoch = checkpoint['epoch']+1
+        player.DQN.load_state_dict(checkpoint['model_state_dict'])
+        player_hat.DQN.load_state_dict(checkpoint['model_state_dict'])
+        optim.load_state_dict(checkpoint['optimizer_state_dict'])
+        scheduler.load_state_dict(checkpoint['scheduler_state_dict'])
+        # buffer = torch.load(buffer_path)
+        losses = checkpoint['loss']
+        scores = checkpoint['scores']
+        avg_score = checkpoint['avg_score']
+    player.DQN.train()
+    player_hat.DQN.eval()
 
     #endregion################################
 
@@ -106,12 +107,14 @@ def main (chkpt):
                 reward += _reward
                 graphics.Graphics.game_screen(screen,game)
 
-            if game.game_over or step > 200:
+            if game.game_over or step > 600:
                 best_score = max(best_score, game.points)
                 if game.game_over == 'lose':
                     reward = game.lose_reward
+                    wl[1]=wl[1]+1
                 elif game.game_over == 'win':
                     reward = game.win_reward
+                    wl[0]=wl[0]+1
                 buffer.push(state_action, torch.tensor(action, dtype=torch.int64), torch.tensor(reward, dtype=torch.float32), 
                             midState_cnn, torch.tensor(game.game_over=='lose', dtype=torch.float32))
                 graphics.Graphics.game_screen(screen,game)
@@ -155,7 +158,7 @@ def main (chkpt):
 
         print (f'chkpt:{chkpt} epoch: {epoch} loss: {loss:.7f} LR: {scheduler.get_last_lr()} step: {step} ' \
                f'score: {game.points} best_score: {best_score}')
-        wnblog = {'step': {step}, 'loss': loss,'score':game.points}
+        wnblog = {'step': {step}, 'loss': loss,'score':game.points,'win/lose':wl[0]/wl[1]}
         wandb.log(wnblog)
         
         step = 0
@@ -170,18 +173,18 @@ def main (chkpt):
 
         
         
-        # if epoch % 5 == 0 and epoch > 0:
-        #     checkpoint = {
-        #         'epoch': epoch,
-        #         'model_state_dict': player.DQN.state_dict(),
-        #         'optimizer_state_dict': optim.state_dict(),
-        #         'scheduler_state_dict': scheduler.state_dict(),
-        #         'loss': losses,
-        #         'scores':scores,
-        #         'avg_score': avg_score
-        #     }
+        if epoch % 5 == 0 and epoch > 0:
+            checkpoint = {
+                'epoch': epoch,
+                'model_state_dict': player.DQN.state_dict(),
+                'optimizer_state_dict': optim.state_dict(),
+                'scheduler_state_dict': scheduler.state_dict(),
+                'loss': losses,
+                'scores':scores,
+                'avg_score': avg_score
+            }
             
-            # torch.save(checkpoint, checkpoint_path)
+            torch.save(checkpoint, checkpoint_path)
             # torch.save(buffer, buffer_path)
            
         #endregion

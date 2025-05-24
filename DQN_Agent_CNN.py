@@ -4,12 +4,12 @@ import random
 import torch
 path = "Data/parameters1"
 class DQN_Agent:
-    def __init__(self,parameters_path =None,train =False,env =None):
+    def __init__(self,parameters_path =None,train =False,env =None, action=None):
         self.parameters_path=parameters_path
         self.train=train
         self.env =env
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        self.DQN : DQN = DQN(device=self.device, row=9, col=9)
+        self.DQN : DQN = DQN(device=self.device, row=15, col=15)
         
         self.last_action_step = 0
 
@@ -19,7 +19,7 @@ class DQN_Agent:
           else:
               self.DQN.eval()
 
-    def getAction(self, state_cnn, epoch = 0, events= None, train =True): 
+    def getAction(self, state_cnn, epoch = 0, events= None, train =True, action=None): 
         
         states_cnn, actions = self.env.state_actions(state_cnn)
         if self.env.prev_action == 0:

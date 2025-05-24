@@ -267,7 +267,7 @@ class Game:
                 if 10 in self.board or -10 in self.board:
                     blinky=np.argwhere(abs(self.board)==10)[0]
                 else:
-                    blinky=np.argwhere(abs(self.board)==10-np.argwhere(abs(self.ghostUnder)==10)[0])[0]
+                    blinky=self.ghostHomeTiles[2]
                 halfway=pacman
                 if self.direction == 0:
                     halfway=(halfway[0],halfway[1]+2)
@@ -334,7 +334,7 @@ class Game:
             self.reward = 0
             # reward=(self.points-prevPoints)/10
             return GameTick+1,self.state_cnn(),reward        ##################
-        return GameTick,self.state_cnn(),reward
+        return GameTick,self.state_cnn(),0
 
     def state(self):
         board_np = self.board.reshape(868) # 31 * 28
@@ -409,7 +409,7 @@ class Game:
 
         return legal_actions, next_pacman_lst
 
-    def get_sub_state (self, state_cnn, n=4):
+    def get_sub_state (self, state_cnn, n=7):
         row, col = torch.where(state_cnn[1] >= 10)
         row = row.item() + n
         col = col.item() + n
@@ -476,20 +476,3 @@ class Game:
         self.game_over = False
         self.reward = 0
         self.init_pacman()
-    
-                
-                            
-        
-                       
-    
-                
-                
-                        
-        
-                
-        
-            
-                    
-        
-
-
