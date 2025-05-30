@@ -416,14 +416,15 @@ class Game:
         pad = (n, n, n, n)
 
         # Pad each channel separately
-        padded_channels = []
-        for i in range(3):
-            padded = F.pad(state_cnn[i].unsqueeze(0), pad, mode='circular')
-            padded_channels.append(padded)
+        # padded_channels = []
+        # for i in range(3):
+        #     padded = F.pad(state_cnn[i].unsqueeze(0), pad, mode='circular')
+        #     padded_channels.append(padded)
 
-        # Stack channels back
-        state_padded = torch.cat(padded_channels, dim=0)
+        # # Stack channels back
+        # state_padded = torch.cat(padded_channels, dim=0)
         
+        state_padded = F.pad(state_cnn, pad, mode='circular')  # state_cnn shape: [3, H, W]
         sub_state = state_padded[:, row-n:row+n+1, col-n:col+n+1]
 
         return sub_state
